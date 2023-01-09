@@ -4,36 +4,64 @@ import tkinter as tk
 window = tk.Tk()
 window.geometry("800x600")
 
+# Create a global variable to track the state of the canvas
+state = 0
+state2 = 0
+
 # Create a function that will be called when the button is clicked
 def button_clicked():
-    print("Button was clicked!")
+    text = entry.get()
+
+    global state
+    global state2
+    print(f"Button was clicked! {state2} - You entered: {text}")
+    state = (state + 1) % 2
+    state2 = state2 + 1
+    canvas1.delete("all")
+    if state == 0:
+        canvas1.create_rectangle(50, 50, 250, 250, fill="#0000ff")
+    else:
+        canvas1.create_rectangle(50, 50, 250, 250, fill="#00ff00")
+    canvas2.create_rectangle(state2 * 20, state2 * 20, state2 * 20 + 20, state2 * 20 + 20, fill="#0000ff")
 
 # Create a button
 button = tk.Button(text="Click me!", command=button_clicked)
 
 # Create a canvas to draw on
-canvas = tk.Canvas(window, width=300, height=300, bg="#ffffff")
+canvas1 = tk.Canvas(window, width=400, height=400, bg="#ffffff")
+canvas2 = tk.Canvas(window, width=400, height=400, bg="#ffffff")
 
-# Create a blue circle on the canvas
-circle = canvas.create_oval(50, 50, 250, 250, fill="#0000ff")
-
-# Draw the ship's hull
-hull = canvas.create_polygon([(100, 100), (150, 50), (200, 100), (150, 150)], fill="#0000ff")
+# Draw the grid
+for x in range(0, 401, 20):
+    for y in range(0, 401, 20):
+        canvas1.create_rectangle(x, y, x + 20, y + 20, fill="#0000AA")
+        canvas2.create_rectangle(x, y, x + 20, y + 20, fill="#0000AA")
 
 # Draw the ship's mast
-mast = canvas.create_line(150, 50, 150, 25)
+mast = canvas1.create_line(150, 50, 150, 25)
+
+# Place the Entry in the window
+entry = tk.Entry(window)
+entry.pack() #(side="left")
+
 
 # Bind a function to the ship's hull
 def ship_clicked(event):
     print("Ship was clicked at", event.x, event.y)
-canvas.tag_bind(hull, "<Button-1>", ship_clicked)
+    canvas2.create_rectangle(event.x, event.y, event.x + 20, event.y + 20, fill="#0000ff")
 
 
-# Place the canvas in the window
-canvas.pack()
+# Create a blue circle on the canvas
+circle = canvas1.create_oval(50, 50, 250, 250, fill="#0000ff")
+
+canvas1.tag_bind(circle, "<Button-1>", ship_clicked)
+
 
 # Place the button in the window
 button.pack()
+# Place the canvas in the window
+canvas1.pack(side="left")
+canvas2.pack(side="right")
 
 # Run the Tkinter event loop
 window.mainloop()
