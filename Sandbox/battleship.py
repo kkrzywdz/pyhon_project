@@ -2,11 +2,16 @@ import tkinter as tk
 
 # Create the main window
 window = tk.Tk()
-window.geometry("800x600")
+window.geometry("1000x600")
 
 # Create a global variable to track the state of the canvas
 state = 0
 state2 = 0
+
+# Create a frame to hold the canvases
+frame = tk.Frame(window)
+frame.pack(side="left")
+
 
 # Create a function that will be called when the button is clicked
 def button_clicked():
@@ -28,7 +33,7 @@ def button_clicked():
 button = tk.Button(text="Click me!", command=button_clicked)
 
 # Create a canvas to draw on
-canvas1 = tk.Canvas(window, width=400, height=400, bg="#ffffff")
+canvas1 = tk.Canvas(frame, width=400, height=400, bg="#ffffff")
 canvas2 = tk.Canvas(window, width=400, height=400, bg="#ffffff")
 
 # Draw the grid
@@ -41,8 +46,8 @@ for x in range(0, 401, 20):
 mast = canvas1.create_line(150, 50, 150, 25)
 
 # Place the Entry in the window
-entry = tk.Entry(window)
-entry.pack() #(side="left")
+entry = tk.Entry(frame)
+entry.pack()
 
 
 # Bind a function to the ship's hull
@@ -58,10 +63,11 @@ canvas1.tag_bind(circle, "<Button-1>", ship_clicked)
 
 
 # Place the button in the window
-button.pack()
+
 # Place the canvas in the window
 canvas1.pack(side="left")
 canvas2.pack(side="right")
+button.pack()
 
 # Run the Tkinter event loop
 window.mainloop()
