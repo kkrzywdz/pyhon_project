@@ -87,13 +87,13 @@ for seeColor in seeP2:
 button = tk.Button(text="Click me!", command=button_clicked)
 
 # load images and reduce size
-imageCarrier = tk.PhotoImage(file=".\Data\T_Carrier.png").subsample(2, 2)
-imageBattle = tk.PhotoImage(file=".\Data\T_Battleship.png").subsample(2, 2)
-imageCorvette = tk.PhotoImage(file=".\Data\T_Corvette.png").subsample(2, 2)
-imageCruiser = tk.PhotoImage(file=".\Data\T_Cruiser.png").subsample(2, 2)
-imageDestroyer = tk.PhotoImage(file=".\Data\T_Destroyer.png").subsample(2, 2)
-imageGunBoat = tk.PhotoImage(file=".\Data\T_GunBoat.png").subsample(2, 2)
-imageSubmarine = tk.PhotoImage(file=".\Data\T_Submarine.png").subsample(2, 2)
+imageCarrier = tk.PhotoImage(file="./Data/T_Carrier.png").subsample(2, 2)
+imageBattle = tk.PhotoImage(file="./Data/T_Battleship.png").subsample(2, 2)
+imageCorvette = tk.PhotoImage(file="./Data/T_Corvette.png").subsample(2, 2)
+imageCruiser = tk.PhotoImage(file="./Data/T_Cruiser.png").subsample(2, 2)
+imageDestroyer = tk.PhotoImage(file="./Data/T_Destroyer.png").subsample(2, 2)
+imageGunBoat = tk.PhotoImage(file="./Data/T_GunBoat.png").subsample(2, 2)
+imageSubmarine = tk.PhotoImage(file="./Data/T_Submarine.png").subsample(2, 2)
 
 # populate canvas with ship images
 canvasShipP1.create_image(100, 50, image=imageCarrier)
