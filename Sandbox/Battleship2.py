@@ -1,4 +1,5 @@
 import pygame
+import random
 
 # Initialize pygame
 pygame.init()
@@ -15,6 +16,13 @@ square_size = (20, 20)
 
 # Set the board position
 board_pos = (100, 100)
+
+# define bord colors
+board_color_enpty = 100, 100, 200
+board_color_hit = 255, 0, 0
+board_color_miss = 255, 255, 255
+board_color_destroied = 63, 63, 63
+
 
 # Load the images
 images = []
@@ -48,10 +56,14 @@ while running:
     # Draw the board
     for i in range(board_size[0]):
         for j in range(board_size[1]):
-            pygame.draw.rect(screen, (255, 255, 255), (board_pos[0] + i * square_size[0],
+
+            board_color = random.choice([board_color_miss,board_color_enpty, board_color_destroied, board_color_hit])
+
+            pygame.draw.rect(screen, board_color, (board_pos[0] + i * square_size[0],
                                                        board_pos[1] + j * square_size[1],
-                                                       square_size[0], square_size[1]), 0)
-            pygame.Surface.fill((i, j) * square_size, (255, 0, 0))
+                                                       square_size[0] - 1, square_size[1] - 1), 0)
+            #pygame.Surface.fill((255, 0, 0))
+
 
     # Update the display
     pygame.display.flip()
