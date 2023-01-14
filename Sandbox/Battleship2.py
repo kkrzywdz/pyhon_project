@@ -12,10 +12,10 @@ screen = pygame.display.set_mode(window_size)
 board_size = (20, 20)
 
 # Set the square size
-square_size = (20, 20)
+square_size = (18, 18)
 
 # Set the board position
-board_pos = (200, 0)
+board_pos = (220, 20)
 
 # define bord colors
 board_color_enpty = 100, 100, 200
@@ -34,6 +34,9 @@ RAWimages.append(pygame.image.load("./Data/T_Destroyer.png"))
 RAWimages.append(pygame.image.load("./Data/T_GunBoat.png"))
 RAWimages.append(pygame.image.load("./Data/T_Submarine.png"))
 
+backgroundLeft  = pygame.transform.scale (pygame.image.load("./Data/Background Left.png"), (200, 600))
+backgroundRight = pygame.transform.scale (pygame.image.load("./Data/Background Right.png"), (200, 600))
+
 images = []
 for image in RAWimages:
     images.append(pygame.transform.scale (image, (200,50)))
@@ -51,6 +54,10 @@ while running:
             running = False
 
     screen.fill((255, 255, 255))
+
+    #adding backgrounds
+    screen.blit(backgroundLeft, (0,0))
+    screen.blit(backgroundRight, (600,0))
 
     # Blit the image to the screen
     x = 0
