@@ -4,30 +4,30 @@ import random
 # Initialize pygame
 pygame.init()
 
-# Board colors
-BoardColors = {
-    "empty": (100, 100, 200),
-    "hit": (255, 0, 0),
-    "miss": (255, 255, 255),
-    "destroyed": (63, 63, 63)
-}
-
 
 # Define Board Class
-class BoardClass:
-    def __int__(self, board_pos):
+class BoardClass():
+    def __init__(self, board_pos):
         # Set the board position
         self.board_pos = board_pos
         # Set the board size
         self.board_size = (20, 20)
         # Set the square size
-        square_size = (18, 18)
+        self.square_size = (18, 18)
+        self.BoardColors = {
+            "empty": (100, 100, 200),
+            "hit": (255, 0, 0),
+            "miss": (255, 255, 255),
+            "destroyed": (63, 63, 63)
+            }
+
 
     def draw_board(self):
         # Draw the board
         for i in range(self.board_size[0]):
             for j in range(self.board_size[1]):
-                board_color = random.choice(BoardColors)
+                #board_color = random.choice(BoardColors)
+                board_color = self.BoardColors["empty"]
                 pygame.draw.rect(screen, board_color, (self.board_pos[0] + i * self.square_size[0],
                                                        self.board_pos[1] + j * self.square_size[1],
                                                        self.square_size[0] - 1, self.square_size[1] - 1), 0)
@@ -63,7 +63,7 @@ for image in images:
     mirrorImages.append(pygame.transform.flip(image, True, False))
 
 # Create new board
-p1Board = BoardClass(200, 200)
+p1Board = BoardClass((220, 20))
 
 # Main loop
 running = True
