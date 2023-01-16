@@ -4,24 +4,40 @@ import random
 # Initialize pygame
 pygame.init()
 
+# Board colors
+BoardColors = {
+    "empty": (100, 100, 200),
+    "hit": (255, 0, 0),
+    "miss": (255, 255, 255),
+    "destroyed": (63, 63, 63)
+}
+
+
+# Define Board Class
+class BoardClass:
+    def __int__(self, board_pos):
+        # Set the board position
+        self.board_pos = board_pos
+        # Set the board size
+        self.board_size = (20, 20)
+        # Set the square size
+        square_size = (18, 18)
+
+    def draw_board(self):
+        # Draw the board
+        for i in range(self.board_size[0]):
+            for j in range(self.board_size[1]):
+                board_color = random.choice(BoardColors)
+                pygame.draw.rect(screen, board_color, (self.board_pos[0] + i * self.square_size[0],
+                                                       self.board_pos[1] + j * self.square_size[1],
+                                                       self.square_size[0] - 1, self.square_size[1] - 1), 0)
+
+
 # Set the window size
 window_size = (800, 600)
 screen = pygame.display.set_mode(window_size)
 
-# Set the board size
-board_size = (20, 20)
-
-# Set the square size
-square_size = (18, 18)
-
-# Set the board position
-board_pos = (220, 20)
-
 # define bord colors
-board_color_enpty = 100, 100, 200
-board_color_hit = 255, 0, 0
-board_color_miss = 255, 255, 255
-board_color_destroied = 63, 63, 63
 
 
 # Load the images
@@ -34,17 +50,20 @@ RAWimages.append(pygame.image.load("./Data/T_Destroyer.png"))
 RAWimages.append(pygame.image.load("./Data/T_GunBoat.png"))
 RAWimages.append(pygame.image.load("./Data/T_Submarine.png"))
 
-backgroundLeft  = pygame.transform.scale (pygame.image.load("./Data/Background Left.png"), (200, 600))
-backgroundRight = pygame.transform.scale (pygame.image.load("./Data/Background Right.png"), (200, 600))
+backgroundLeft = pygame.transform.scale(pygame.image.load("./Data/Background Left.png"), (200, 600))
+backgroundRight = pygame.transform.scale(pygame.image.load("./Data/Background Right.png"), (200, 600))
 
 images = []
 for image in RAWimages:
-    images.append(pygame.transform.scale (image, (200,50)))
+    images.append(pygame.transform.scale(image, (200, 50)))
 
 # mirrored images
 mirrorImages = []
 for image in images:
     mirrorImages.append(pygame.transform.flip(image, True, False))
+
+# Create new board
+p1Board = BoardClass(200, 200)
 
 # Main loop
 running = True
@@ -55,9 +74,9 @@ while running:
 
     screen.fill((255, 255, 255))
 
-    #adding backgrounds
-    screen.blit(backgroundLeft, (0,0))
-    screen.blit(backgroundRight, (600,0))
+    # adding backgrounds
+    screen.blit(backgroundLeft, (0, 0))
+    screen.blit(backgroundRight, (600, 0))
 
     # Blit the image to the screen
     x = 0
@@ -72,17 +91,7 @@ while running:
         screen.blit(image, (x, y))
         y = y + 60
 
-    # Draw the board
-    for i in range(board_size[0]):
-        for j in range(board_size[1]):
-
-            board_color = random.choice([board_color_miss,board_color_enpty, board_color_destroied, board_color_hit])
-
-            pygame.draw.rect(screen, board_color, (board_pos[0] + i * square_size[0],
-                                                       board_pos[1] + j * square_size[1],
-                                                       square_size[0] - 1, square_size[1] - 1), 0)
-
-
+    p1Board.draw_board()
 
     # Update the display
     pygame.display.flip()
