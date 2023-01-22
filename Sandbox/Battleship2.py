@@ -5,6 +5,7 @@ import random
 pygame.init()
 
 
+
 # Define Board Class
 class BoardClass():
     def __init__(self, name, board_pos, board_size):
@@ -19,18 +20,28 @@ class BoardClass():
         self.BoardColors = {
             "empty": (100, 100, 200),
             "hit": (255, 0, 0),
-            "miss": (255, 255, 255),
+            "miss": (200, 200, 200),
             "destroyed": (63, 63, 63),
             "marked": (0, 128, 0)
             }
         self.field = [[0 for i in range(board_size[0])] for j in range(board_size[1])]
+        self.ships = [[0 for i in range(board_size[0])] for j in range(board_size[1])]
 
+    def initialize_test_ships(self):
+        self.ships[0] = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        self.ships[1] = [0, 6, 0, 0, 5, 5, 5, 5, 5, 0]
+        self.ships[2] = [0, 6, 6, 0, 0, 0, 0, 0, 0, 0]
+        self.ships[3] = [0, 6, 6, 0, 0, 0, 0, 0, 0, 0]
+        self.ships[4] = [0, 0, 6, 0, 0, 0, 2, 0, 0, 0]
+        self.ships[5] = [0, 0, 0, 0, 0, 0, 2, 0, 0, 0]
+        self.ships[6] = [0, 0, 0, 0, 0, 0, 2, 0, 1, 0]
+        self.ships[7] = [0, 0, 0, 0, 3, 0, 0, 0, 1, 0]
+        self.ships[8] = [0, 0, 4, 0, 0, 3, 0, 0, 0, 0]
+        self.ships[9] = [0, 4, 4, 4, 0, 0, 3, 0, 0, 0]
 
     def clicked(self, x_pos, y_pos):
         # check if board is clicked
-        print(f"Board {self.name}" , end = " ")
-        print(f"{self.board_pos[0]} < {x_pos} < {self.board_pos[0]+ self.board_size[0]* (self.square_size[0]) }", end = " ")
-        print(f"{self.board_pos[1]} < {y_pos} < {self.board_pos[1] + self.board_size[1] * (self.square_size[1])}")
+        print(f"Board {self.name}")
 
         x_offset = x_pos - self.board_pos[0]
         y_offset = y_pos - self.board_pos[1]
@@ -41,9 +52,15 @@ class BoardClass():
             square_y = int(y_offset / (self.square_size[1]))
             print(f"Board {self.name} clicked in [{square_x}][{square_y}]")
             if self.field[square_x][square_y] == 0:
-                self.field[square_x][square_y] = 1
+                if self.ships[square_x][square_y] > 0 :
+                    self.field[square_x][square_y] = 2
+                    print("HIT")
+                else:
+                    self.field[square_x][square_y] = 1
+                    print("MISS")
             else:
-                self.field[square_x][square_y] = 0
+                print(f"[{square_x}][{square_y}] - already checked")
+
 
 
     def draw_board(self):
@@ -110,6 +127,8 @@ for image in images:
 # 320 for 10 x 10 board
 p1Board = BoardClass("Player 1",p1BoardPos,  (10, 10))
 p2Board = BoardClass("Player 2",p2BoardPos,  (10, 10))
+p1Board.initialize_test_ships()
+p1Board.initialize_test_ships()
 
 # Main loop
 running = True
