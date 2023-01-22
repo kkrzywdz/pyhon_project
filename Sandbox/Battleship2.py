@@ -5,7 +5,6 @@ import random
 pygame.init()
 
 
-
 # Define Board Class
 class BoardClass():
     def __init__(self, name, board_pos, board_size):
@@ -23,7 +22,7 @@ class BoardClass():
             "miss": (200, 200, 200),
             "destroyed": (63, 63, 63),
             "marked": (0, 128, 0)
-            }
+        }
         self.field = [[0 for i in range(board_size[0])] for j in range(board_size[1])]
         self.ships = [[0 for i in range(board_size[0])] for j in range(board_size[1])]
 
@@ -46,13 +45,13 @@ class BoardClass():
         x_offset = x_pos - self.board_pos[0]
         y_offset = y_pos - self.board_pos[1]
 
-        if 0 < x_offset < self.board_size[0]* (self.square_size[0]) and \
+        if 0 < x_offset < self.board_size[0] * (self.square_size[0]) and \
                 0 < y_offset < self.board_size[1] * (self.square_size[1]):
             square_x = int(x_offset / (self.square_size[0]))
             square_y = int(y_offset / (self.square_size[1]))
             print(f"Board {self.name} clicked in [{square_x}][{square_y}]")
             if self.field[square_x][square_y] == 0:
-                if self.ships[square_x][square_y] > 0 :
+                if self.ships[square_x][square_y] > 0:
                     self.field[square_x][square_y] = 2
                     print("HIT")
                 else:
@@ -60,8 +59,6 @@ class BoardClass():
                     print("MISS")
             else:
                 print(f"[{square_x}][{square_y}] - already checked")
-
-
 
     def draw_board(self):
         # Draw the board
@@ -77,18 +74,20 @@ class BoardClass():
                 elif self.field[i][j] == 3:
                     board_color = self.BoardColors["destroyed"]
                 else:
-                    board_color = (0,0,0)
+                    board_color = (0, 0, 0)
 
                 pygame.draw.rect(screen, board_color, (self.board_pos[0] + i * self.square_size[0],
                                                        self.board_pos[1] + j * self.square_size[1],
                                                        self.square_size[0] - 1, self.square_size[1] - 1), 0)
+
     def print_fields(self):
-        print (f"This is Board print field method for {self.name}")
-        print (f"bord size {self.board_size[0]} x {self.board_size[1]}")
-        for i in range (self.board_size[0]):
+        print(f"This is Board print field method for {self.name}")
+        print(f"bord size {self.board_size[0]} x {self.board_size[1]}")
+        for i in range(self.board_size[0]):
             for j in range(self.board_size[1]):
-                print( self.field[i][j] , end = " ")
+                print(self.field[i][j], end=" ")
             print("")
+
 
 # Set the window size
 window_size = (800, 600)
@@ -112,8 +111,8 @@ RAWimages.append(pygame.image.load("./Data/T_Submarine.png"))
 
 backgroundLeft = pygame.transform.scale(pygame.image.load("./Data/Background Left.png"), (200, 600))
 backgroundRight = pygame.transform.scale(pygame.image.load("./Data/Background Right.png"), (200, 600))
-nextTurn = pygame.transform.scale(pygame.image.load("./Data/fire_scale.png"), (29, 38))
-nextTurn = pygame.transform.scale(pygame.image.load("./Data/fire_button.png"), (50, 50))
+burnShip = pygame.transform.scale(pygame.image.load("./Data/fire_scale.png"), (29, 38))
+nextTurn = pygame.transform.scale(pygame.image.load("./Data/fire_button.png"), (50, 50)).convert()
 
 images = []
 for image in RAWimages:
@@ -127,10 +126,28 @@ for image in images:
 # Create new board -
 # 220 for 20x20 board
 # 320 for 10 x 10 board
-p1Board = BoardClass("Player 1",p1BoardPos,  (10, 10))
-p2Board = BoardClass("Player 2",p2BoardPos,  (10, 10))
+p1Board = BoardClass("Player 1", p1BoardPos, (10, 10))
+p2Board = BoardClass("Player 2", p2BoardPos, (10, 10))
 p1Board.initialize_test_ships()
 p1Board.initialize_test_ships()
+
+screen.fill((255, 255, 255))
+screen.blit(backgroundLeft, (0, 0))
+screen.blit(backgroundRight, (600, 0))
+screen.blit(nextTurn, (500, 500))
+
+# Blit the image to the screen
+x = 0
+y = 0
+for image in images:
+    screen.blit(image, (x, y))
+    y = y + 60
+
+x = 600
+y = 0
+for image in mirrorImages:
+    screen.blit(image, (x, y))
+    y = y + 60
 
 # Main loop
 running = True
@@ -139,37 +156,18 @@ while running:
         if event.type == pygame.QUIT:
             running = False
         if event.type == pygame.MOUSEBUTTONDOWN:
-            if event.button == 1:  # 1 == left button
+            pos_x, pos_y = pygame.mouse.get_pos()
 
-                pos_x, pos_y = pygame.mouse.get_pos()
+            if event.button == 1:  # 1 == left button
                 print(f"click! x={pos_x} y={pos_y} .")
                 p1Board.clicked(pos_x, pos_y)
                 p2Board.clicked(pos_x, pos_y)
 
 
-    screen.fill((255, 255, 255))
 
-    # adding backgrounds
-    screen.blit(backgroundLeft, (0, 0))
-    screen.blit(backgroundRight, (600, 0))
-    screen.blit(nextTurn, (500, 500))
-
-    # Blit the image to the screen
-    x = 0
-    y = 0
-    for image in images:
-        screen.blit(image, (x, y))
-        y = y + 60
-
-    x = 600
-    y = 0
-    for image in mirrorImages:
-        screen.blit(image, (x, y))
-        y = y + 60
-
-    #p1Board.field[random.randint(0, 9)][random.randint(0,9)] = random.randint(0,3)
+    # p1Board.field[random.randint(0, 9)][random.randint(0,9)] = random.randint(0,3)
     p2Board.field[random.randint(0, 9)][random.randint(0, 9)] = random.randint(0, 3)
-    #p1Board.print_fields()
+    # p1Board.print_fields()
 
     p1Board.draw_board()
     p2Board.draw_board()
