@@ -112,6 +112,8 @@ RAWimages.append(pygame.image.load("./Data/T_Submarine.png"))
 
 backgroundLeft = pygame.transform.scale(pygame.image.load("./Data/Background Left.png"), (200, 600))
 backgroundRight = pygame.transform.scale(pygame.image.load("./Data/Background Right.png"), (200, 600))
+nextTurn = pygame.transform.scale(pygame.image.load("./Data/fire_scale.png"), (29, 38))
+nextTurn = pygame.transform.scale(pygame.image.load("./Data/fire_button.png"), (50, 50))
 
 images = []
 for image in RAWimages:
@@ -150,6 +152,7 @@ while running:
     # adding backgrounds
     screen.blit(backgroundLeft, (0, 0))
     screen.blit(backgroundRight, (600, 0))
+    screen.blit(nextTurn, (500, 500))
 
     # Blit the image to the screen
     x = 0
