@@ -1,0 +1,683 @@
+id,Name,Artifact Type,Jama ID,Jama URL,HSD ID,HSD URL,Affected Component
+377246,IPU SDK Layout - Init Package,ND SW Requirement,"=""22016633243""",https://hsdes.intel.com/appstore/article/#/22016633243,"","",Unassigned
+377245,Document IMC Initialization Package,ND SW Requirement,"=""22016633136""",https://hsdes.intel.com/appstore/article/#/22016633136,"","",Unassigned
+377244,Init Package:  SEM Block - Default Profiles,ND SW Requirement,"=""22016632362""",https://hsdes.intel.com/appstore/article/#/22016632362,"","",Unassigned
+377243,Init Package:  FXP Parser - Error PTYPE,ND SW Requirement,"=""22016632361""",https://hsdes.intel.com/appstore/article/#/22016632361,"","",Unassigned
+377242,Init Package:  FXP Parser - PTYPES,ND SW Requirement,"=""22016632360""",https://hsdes.intel.com/appstore/article/#/22016632360,"","",Unassigned
+377241,Init Package:  VLAN Header Reporting,ND SW Requirement,"=""22016632358""",https://hsdes.intel.com/appstore/article/#/22016632358,"","",Unassigned
+377240,Init Package:  Default Configuration,ND SW Requirement,"=""22016632357""",https://hsdes.intel.com/appstore/article/#/22016632357,"","",Unassigned
+377239,Init Package:  Manageability,ND SW Requirement,"=""22016632356""",https://hsdes.intel.com/appstore/article/#/22016632356,"","",Unassigned
+377238,Init Package:  FXP Parser - Protocol Headers,ND SW Requirement,"=""22016632355""",https://hsdes.intel.com/appstore/article/#/22016632355,"","",Unassigned
+377237,Init Package:  CXP Parser - Protocol Headers,ND SW Requirement,"=""22016632354""",https://hsdes.intel.com/appstore/article/#/22016632354,"","",Unassigned
+377236,LAN ACC Performance Expectations - 100G,ND SW Requirement,"=""22016623403""",https://hsdes.intel.com/appstore/article/#/22016623403,"","",Unassigned
+377235,IPU Documentation - Getting Started Guide,ND SW Requirement,"=""22016569434""",https://hsdes.intel.com/appstore/article/#/22016569434,"","",Unassigned
+377234,"IPU Documentation - IPU ""How To"" Guide",ND SW Requirement,"=""22016568982""",https://hsdes.intel.com/appstore/article/#/22016568982,"","",Unassigned
+377233,Document Clara Peak,ND SW Requirement,"=""22016540712""",https://hsdes.intel.com/appstore/article/#/22016540712,"","",Unassigned
+377232,IPU Fuse Configuration Utility - IPU SDK Layout,ND SW Requirement,"=""22016503463""",https://hsdes.intel.com/appstore/article/#/22016503463,"","",Unassigned
+377231,IPU Update - IPU SDK Layout,ND SW Requirement,"=""22016503460""",https://hsdes.intel.com/appstore/article/#/22016503460,"","",Unassigned
+377230,ISET - IMC rootfs Layout,ND SW Requirement,"=""22016502994""",https://hsdes.intel.com/appstore/article/#/22016502994,"","",Unassigned
+377229,Init Package: CXP Packet Types,ND SW Requirement,"=""22016490848""",https://hsdes.intel.com/appstore/article/#/22016490848,"","",Unassigned
+377228,LCE Performance Expectations - without LAN traffic,ND SW Requirement,"=""22016481636""",https://hsdes.intel.com/appstore/article/#/22016481636,"","",Unassigned
+377227,Protocol ID and PTYPE Metadata,ND SW Requirement,"=""22016468748""",https://hsdes.intel.com/appstore/article/#/22016468748,"","",Unassigned
+377226,Protocol ID and PTYPE Metadata,ND SW Requirement,"=""22016468736""",https://hsdes.intel.com/appstore/article/#/22016468736,"","",Unassigned
+377225,LCE readme,ND SW Requirement,"=""22016374384""",https://hsdes.intel.com/appstore/article/#/22016374384,"","",Unassigned
+377224,Document Clara Peak,ND SW Requirement,"=""22016369568""",https://hsdes.intel.com/appstore/article/#/22016369568,"","",Unassigned
+377223,AES GCM Support,ND SW Requirement,"=""22016342519""",https://hsdes.intel.com/appstore/article/#/22016342519,"","",Unassigned
+377222,MDEV Support - Exceed Ring Pairs on Device,ND SW Requirement,"=""22016341381""",https://hsdes.intel.com/appstore/article/#/22016341381,"","",Unassigned
+377221,ISET - Display Board ID,ND SW Requirement,"=""22016296394""",https://hsdes.intel.com/appstore/article/#/22016296394,"","",Unassigned
+377220,ISET - Port-to-MAC Mapping,ND SW Requirement,"=""22016296393""",https://hsdes.intel.com/appstore/article/#/22016296393,"","",Unassigned
+377219,Runtime discovery of PTYPEs,ND SW Requirement,"=""22016283641""",https://hsdes.intel.com/appstore/article/#/22016283641,"","",Unassigned
+377218,Firmware Download Failure,ND SW Requirement,"=""22016106234""",https://hsdes.intel.com/appstore/article/#/22016106234,"","",Unassigned
+377217,Report Firmware Version,ND SW Requirement,"=""22016106223""",https://hsdes.intel.com/appstore/article/#/22016106223,"","",Unassigned
+377216,MDEV Support,ND SW Requirement,"=""22016105642""",https://hsdes.intel.com/appstore/article/#/22016105642,"","",Unassigned
+377215,LCE Performance Expectations - with LAN traffic,ND SW Requirement,"=""22016079157""",https://hsdes.intel.com/appstore/article/#/22016079157,"","",Unassigned
+377214,IPU Documentation - Compiled Binaries,ND SW Requirement,"=""22016079018""",https://hsdes.intel.com/appstore/article/#/22016079018,"","",Unassigned
+377213,IPU Documentation - Tools,ND SW Requirement,"=""22016072530""",https://hsdes.intel.com/appstore/article/#/22016072530,"","",Unassigned
+377212,IPU Documentation - IPU Feature Enablement,ND SW Requirement,"=""22016072529""",https://hsdes.intel.com/appstore/article/#/22016072529,"","",Unassigned
+377211,IPU Documentation - Release Notes,ND SW Requirement,"=""22016072528""",https://hsdes.intel.com/appstore/article/#/22016072528,"","",Unassigned
+377210,Init Package:  iSCSI Packet Detection,ND SW Requirement,"=""22016048696""",https://hsdes.intel.com/appstore/article/#/22016048696,"","",Unassigned
+377209,ISET - Document Phase 2 Features and Limitations,ND SW Requirement,"=""22016038361""",https://hsdes.intel.com/appstore/article/#/22016038361,"","",Unassigned
+377208,ISET - Ethernet RX Control and Status,ND SW Requirement,"=""22016031081""",https://hsdes.intel.com/appstore/article/#/22016031081,"","",Unassigned
+377207,ISET - Link Control Technology Store Support,ND SW Requirement,"=""22016021716""",https://hsdes.intel.com/appstore/article/#/22016021716,"","",Unassigned
+377206,Zeroization,ND SW Requirement,"=""22016015551""",https://hsdes.intel.com/appstore/article/#/22016015551,"","",Unassigned
+377205,DPDK Crypto Dev Support,ND SW Requirement,"=""22015962485""",https://hsdes.intel.com/appstore/article/#/22015962485,"","",Unassigned
+377204,ISET - IPU SDK Layout,ND SW Requirement,"=""22015962366""",https://hsdes.intel.com/appstore/article/#/22015962366,"","",Unassigned
+377203,Error Reporting - Fatal Error Detection,ND SW Requirement,"=""22015957860""",https://hsdes.intel.com/appstore/article/#/22015957860,"","",Unassigned
+377202,Init Package: Filename,ND SW Requirement,"=""22015919912""",https://hsdes.intel.com/appstore/article/#/22015919912,"","",Unassigned
+377201,Init Package: FXP and CXP Metadata Configuration,ND SW Requirement,"=""22015919837""",https://hsdes.intel.com/appstore/article/#/22015919837,"","",Unassigned
+377200,ISET - File Logging,ND SW Requirement,"=""22015885579""",https://hsdes.intel.com/appstore/article/#/22015885579,"","",Unassigned
+377199,Init Package: Hash Configuration,ND SW Requirement,"=""22015858598""",https://hsdes.intel.com/appstore/article/#/22015858598,"","",Unassigned
+377198,ISET - CLI Component Logging,ND SW Requirement,"=""22015832568""",https://hsdes.intel.com/appstore/article/#/22015832568,"","",Unassigned
+377197,ISET - Version Information,ND SW Requirement,"=""22015832566""",https://hsdes.intel.com/appstore/article/#/22015832566,"","",Unassigned
+377196,ISET - IMC Firmware Version Information,ND SW Requirement,"=""22015832565""",https://hsdes.intel.com/appstore/article/#/22015832565,"","",Unassigned
+377195,Error Reporting - FIPS Self Test Failure,ND SW Requirement,"=""22015826007""",https://hsdes.intel.com/appstore/article/#/22015826007,"","",Unassigned
+377194,ISET - Temperature Sensors,ND SW Requirement,"=""22015802398""",https://hsdes.intel.com/appstore/article/#/22015802398,"","",Unassigned
+377193,ISET - Ethernet TX Control and Status,ND SW Requirement,"=""22015801271""",https://hsdes.intel.com/appstore/article/#/22015801271,"","",Unassigned
+377192,ISET - Ethernet Link Status,ND SW Requirement,"=""22015801269""",https://hsdes.intel.com/appstore/article/#/22015801269,"","",Unassigned
+377191,ISET - Ethernet Link Control,ND SW Requirement,"=""22015801268""",https://hsdes.intel.com/appstore/article/#/22015801268,"","",Unassigned
+377190,IPU Fuse Configuration Utility - write ECM EFuse,ND SW Requirement,"=""22015704179""",https://hsdes.intel.com/appstore/article/#/22015704179,"","",Unassigned
+377189,ISET - UART Support,ND SW Requirement,"=""22015639490""",https://hsdes.intel.com/appstore/article/#/22015639490,"","",Unassigned
+377188,ISET - Documentation,ND SW Requirement,"=""22015639273""",https://hsdes.intel.com/appstore/article/#/22015639273,"","",Unassigned
+377187,ISET - PHY Subsystem Flows,ND SW Requirement,"=""22015639272""",https://hsdes.intel.com/appstore/article/#/22015639272,"","",Unassigned
+377186,ISET - Link Manager Flows,ND SW Requirement,"=""22015639042""",https://hsdes.intel.com/appstore/article/#/22015639042,"","",Unassigned
+377185,ISET - Loopback Support,ND SW Requirement,"=""22015639022""",https://hsdes.intel.com/appstore/article/#/22015639022,"","",Unassigned
+377184,ISET - Port Configuration,ND SW Requirement,"=""22015639006""",https://hsdes.intel.com/appstore/article/#/22015639006,"","",Unassigned
+377183,Power State Coordination Interface (PSCI) functions - standard features,ND SW Requirement,"=""22015142240""",https://hsdes.intel.com/appstore/article/#/22015142240,"","",Unassigned
+377182,Power State Coordination Interface (PSCI) functions - Resets,ND SW Requirement,"=""22015142192""",https://hsdes.intel.com/appstore/article/#/22015142192,"","",Unassigned
+377181,ISET - Link Configuration,ND SW Requirement,"=""22015101461""",https://hsdes.intel.com/appstore/article/#/22015101461,"","",Unassigned
+377180,Secure Partition Initialization,ND SW Requirement,"=""22014584204""",https://hsdes.intel.com/appstore/article/#/22014584204,"","",Unassigned
+377179,Secure Monitor Call Calling Convention,ND SW Requirement,"=""22014531962""",https://hsdes.intel.com/appstore/article/#/22014531962,"","",Unassigned
+377178,License File,ND SW Requirement,"=""22014369647""",https://hsdes.intel.com/appstore/article/#/22014369647,"","",Unassigned
+377177,ISET - Command Line Interface,ND SW Requirement,"=""22013891210""",https://hsdes.intel.com/appstore/article/#/22013891210,"","",Unassigned
+377176,ACC ATF Documentation,ND SW Requirement,"=""22013849948""",https://hsdes.intel.com/appstore/article/#/22013849948,"","",Unassigned
+377175,Power State Coordination Interface (PSCI) functions - ACC CPU functions,ND SW Requirement,"=""22013849659""",https://hsdes.intel.com/appstore/article/#/22013849659,"","",Unassigned
+377174,"Add ""Network Media Type"" to Adapter Information Protocol",ND SW Requirement,"=""22011673325""",https://hsdes.intel.com/appstore/article/#/22011673325,"","",Unassigned
+377173,DMA operation compliance with UEFI specification,ND SW Requirement,"=""22011673321""",https://hsdes.intel.com/appstore/article/#/22011673321,"","",Unassigned
+377172,UEFI spec 2.7 compliance - Driver Supported EFI Version Protocol,ND SW Requirement,"=""22011673320""",https://hsdes.intel.com/appstore/article/#/22011673320,"","",Unassigned
+377171,Add UEFI UNDI IDPF driver to CD layout,ND SW Requirement,"=""22011673317""",https://hsdes.intel.com/appstore/article/#/22011673317,"","",Unassigned
+377170,IDPF - Basic Adaptive Physical Functions UEFI Support,ND SW Requirement,"=""22011673312""",https://hsdes.intel.com/appstore/article/#/22011673312,"","",Unassigned
+377169,IPU Fuse Configuration Utility - command line parameters,ND SW Requirement,"=""18026539560""",https://hsdes.intel.com/appstore/article/#/18026539560,"","",Unassigned
+377168,IPU Update - report reset type,ND SW Requirement,"=""18026444356""",https://hsdes.intel.com/appstore/article/#/18026444356,"","",Unassigned
+377167,IPU Update - run tool as root,ND SW Requirement,"=""18026423008""",https://hsdes.intel.com/appstore/article/#/18026423008,"","",Unassigned
+377166,IPU Fuse Configuration Utility - run tool as root,ND SW Requirement,"=""18026068976""",https://hsdes.intel.com/appstore/article/#/18026068976,"","",Unassigned
+377165,IPU Update - Print version,ND SW Requirement,"=""18026051912""",https://hsdes.intel.com/appstore/article/#/18026051912,"","",Unassigned
+377164,IPU Update - Help mode,ND SW Requirement,"=""18026051887""",https://hsdes.intel.com/appstore/article/#/18026051887,"","",Unassigned
+377163,IPU Update - IMC rootfs Layout,ND SW Requirement,"=""18025979870""",https://hsdes.intel.com/appstore/article/#/18025979870,"","",Unassigned
+377162,IPU Update tool - tool description,ND SW Requirement,"=""18025976988""",https://hsdes.intel.com/appstore/article/#/18025976988,"","",Unassigned
+377161,IPU Fuse Configuration Utility - exit codes and error handling,ND SW Requirement,"=""18025933964""",https://hsdes.intel.com/appstore/article/#/18025933964,"","",Unassigned
+377160,IPU Fuse Configuration Utility - Logging information to syslog,ND SW Requirement,"=""18025933942""",https://hsdes.intel.com/appstore/article/#/18025933942,"","",Unassigned
+377159,IPU Update - support for PLDM files,ND SW Requirement,"=""18025808530""",https://hsdes.intel.com/appstore/article/#/18025808530,"","",Unassigned
+377158,Logging information to syslog,ND SW Requirement,"=""18025697724""",https://hsdes.intel.com/appstore/article/#/18025697724,"","",Unassigned
+377157,IPU Fuse Configuration Utility - JSON user input,ND SW Requirement,"=""18025552858""",https://hsdes.intel.com/appstore/article/#/18025552858,"","",Unassigned
+377156,IPU Update - exit codes and error handling,ND SW Requirement,"=""18025185453""",https://hsdes.intel.com/appstore/article/#/18025185453,"","",Unassigned
+377155,IPU Fuse Configuration Utility - OEM unlock,ND SW Requirement,"=""18024177259""",https://hsdes.intel.com/appstore/article/#/18024177259,"","",Unassigned
+377154,IPU Fuse Configuration Utility - validate EFuse,ND SW Requirement,"=""18024176953""",https://hsdes.intel.com/appstore/article/#/18024176953,"","",Unassigned
+377153,IPU Fuse Configuration Utility - read ECM EFuse,ND SW Requirement,"=""18024176883""",https://hsdes.intel.com/appstore/article/#/18024176883,"","",Unassigned
+377152,ACC UEFI FW - Power Button Support,ND SW Requirement,"=""18023969698""",https://hsdes.intel.com/appstore/article/#/18023969698,"","",Unassigned
+377151,ACC UEFI FW - ACPI description for platform devices,ND SW Requirement,"=""18023969555""",https://hsdes.intel.com/appstore/article/#/18023969555,"","",Unassigned
+377150,ACC UEFI FW - TLS ciphers support,ND SW Requirement,"=""18023969504""",https://hsdes.intel.com/appstore/article/#/18023969504,"","",Unassigned
+377149,ACC UEFI FW - Boot Order,ND SW Requirement,"=""18023969466""",https://hsdes.intel.com/appstore/article/#/18023969466,"","",Unassigned
+377148,ACC UEFI FW - Boot from RAM,ND SW Requirement,"=""18023969456""",https://hsdes.intel.com/appstore/article/#/18023969456,"","",Unassigned
+377147,ACC UEFI FW - local SSD access through iSCSI,ND SW Requirement,"=""18023969452""",https://hsdes.intel.com/appstore/article/#/18023969452,"","",Unassigned
+377146,ACC UEFI FW - UEFI Secure Boot default state,ND SW Requirement,"=""18023969370""",https://hsdes.intel.com/appstore/article/#/18023969370,"","",Unassigned
+377145,ACC UEFI FW - Embedded Setup Utility,ND SW Requirement,"=""18023774170""",https://hsdes.intel.com/appstore/article/#/18023774170,"","",Unassigned
+377144,IPU Update - support for command line parameters,ND SW Requirement,"=""18023168011""",https://hsdes.intel.com/appstore/article/#/18023168011,"","",Unassigned
+377143,IPU Update - Update flow for MEV,ND SW Requirement,"=""18020138316""",https://hsdes.intel.com/appstore/article/#/18020138316,"","",Unassigned
+377142,ACC UEFI FW - UEFI Secure Boot support,ND SW Requirement,"=""18018475465""",https://hsdes.intel.com/appstore/article/#/18018475465,"","",Unassigned
+377141,ACC UEFI FW - Tianocore EDK2 based implementation,ND SW Requirement,"=""18017758807""",https://hsdes.intel.com/appstore/article/#/18017758807,"","",Unassigned
+377140,ACC UEFI FW - UEFI runtime services - Reset System,ND SW Requirement,"=""18017313897""",https://hsdes.intel.com/appstore/article/#/18017313897,"","",Unassigned
+377139,ACC UEFI FW - Local Storage support,ND SW Requirement,"=""18017091128""",https://hsdes.intel.com/appstore/article/#/18017091128,"","",Unassigned
+377138,ACC UEFI FW - ACPI tables supported,ND SW Requirement,"=""18017089871""",https://hsdes.intel.com/appstore/article/#/18017089871,"","",Unassigned
+377137,ACC UEFI FW - Interrupt Controller support,ND SW Requirement,"=""18017076287""",https://hsdes.intel.com/appstore/article/#/18017076287,"","",Unassigned
+377136,ACC UEFI FW - Dynamic Memory Map,ND SW Requirement,"=""18017059683""",https://hsdes.intel.com/appstore/article/#/18017059683,"","",Unassigned
+377135,ACC UEFI FW - System Timer support,ND SW Requirement,"=""18017059379""",https://hsdes.intel.com/appstore/article/#/18017059379,"","",Unassigned
+377134,ACC UEFI FW - Network boot support,ND SW Requirement,"=""18017010404""",https://hsdes.intel.com/appstore/article/#/18017010404,"","",Unassigned
+377133,ACC UEFI FW - SMBIOS tables,ND SW Requirement,"=""18017010379""",https://hsdes.intel.com/appstore/article/#/18017010379,"","",Unassigned
+377132,ACC UEFI FW - Embedded EFI Shell,ND SW Requirement,"=""18017010344""",https://hsdes.intel.com/appstore/article/#/18017010344,"","",Unassigned
+377131,ACC UEFI FW - ACC PCIe subsystem support,ND SW Requirement,"=""18017010252""",https://hsdes.intel.com/appstore/article/#/18017010252,"","",Unassigned
+377130,ACC UEFI FW - Serial Console support,ND SW Requirement,"=""18017009567""",https://hsdes.intel.com/appstore/article/#/18017009567,"","",Unassigned
+377129,ACC UEFI FW - UEFI runtime services - Variable,ND SW Requirement,"=""18016997231""",https://hsdes.intel.com/appstore/article/#/18016997231,"","",Unassigned
+377128,ACC UEFI FW - UEFI runtime services - Time,ND SW Requirement,"=""18016997078""",https://hsdes.intel.com/appstore/article/#/18016997078,"","",Unassigned
+377127,Management Mode Interface,ND SW Requirement,"=""14015471728""",https://hsdes.intel.com/appstore/article/#/14015471728,"","",Unassigned
+377126,ARM System Ready Embedded Server (ES) version 1.1 Certification,ND SW Requirement,"=""14015439675""",https://hsdes.intel.com/appstore/article/#/14015439675,"","",Unassigned
+377125,True Random Number Generator Interface,ND SW Requirement,"=""14015250948""",https://hsdes.intel.com/appstore/article/#/14015250948,"","",Unassigned
+377124,IPU Fuse Configuration Utility - tool description,ND SW Requirement,"=""13010465679""",https://hsdes.intel.com/appstore/article/#/13010465679,"","",Unassigned
+377123,IPU Fuse Configuration Utility - IMC rootfs Layout,ND SW Requirement,"=""13010465536""",https://hsdes.intel.com/appstore/article/#/13010465536,"","",Unassigned
+370809,ESX Driver - VIRTCHNL timeout,ND SW Requirement,"=""22015064241""",https://hsdes.intel.com/resource/22015064241,"","",Unassigned
+370808,ESX Driver - TCP Segmentation Offload,ND SW Requirement,"=""22015045718""",https://hsdes.intel.com/resource/22015045718,"","",Unassigned
+370807,ESX Driver - Statistics update frequency,ND SW Requirement,"=""22015065753""",https://hsdes.intel.com/resource/22015065753,"","",Unassigned
+370806,ESX Driver - Statistics and Counters,ND SW Requirement,"=""22015050030""",https://hsdes.intel.com/resource/22015050030,"","",Unassigned
+370805,ESX Driver - RSS Input Sets,ND SW Requirement,"=""22015049108""",https://hsdes.intel.com/resource/22015049108,"","",Unassigned
+370804,ESX Driver - Native Mode,ND SW Requirement,"=""22015045786""",https://hsdes.intel.com/resource/22015045786,"","",Unassigned
+370803,ESX Driver - Link Speed,ND SW Requirement,"=""22015050046""",https://hsdes.intel.com/resource/22015050046,"","",Unassigned
+370802,ESX Driver - Jumbo Frames,ND SW Requirement,"=""22015049112""",https://hsdes.intel.com/resource/22015049112,"","",Unassigned
+370801,ESX Driver - ITR - Static Interrupt Throttling,ND SW Requirement,"=""22015045781""",https://hsdes.intel.com/resource/22015045781,"","",Unassigned
+370800,ESX Driver - Device RSS module parameters,ND SW Requirement,"=""22016015236""",https://hsdes.intel.com/resource/22016015236,"","",Unassigned
+370799,ESX Driver - Device RSS logging,ND SW Requirement,"=""22016015323""",https://hsdes.intel.com/resource/22016015323,"","",Unassigned
+370798,ESX Driver - Device RSS,ND SW Requirement,"=""22015049516""",https://hsdes.intel.com/resource/22015049516,"","",Unassigned
+370797,ESX Driver - Checksum Offload Support,ND SW Requirement,"=""22015020167""",https://hsdes.intel.com/resource/22015020167,"","",Unassigned
+370796,Add Idpfn driver to CD layout,ND SW Requirement,"=""22013136030""",https://hsdes.intel.com/resource/22013136030,"","",Unassigned
+364572,ethtool loopback command,ND SW Requirement,"=""22015976097""",https://hsdes.intel.com/resource/22015976097,"","",Unassigned
+364571,Branding in Documentation for IPU LAN Device,ND SW Requirement,"=""22015645508""",https://hsdes.intel.com/resource/22015645508,"","",Unassigned
+364570,Tx Dual completions,ND SW Requirement,"=""22015562498""",https://hsdes.intel.com/resource/22015562498,"","",Unassigned
+364569,Emulated VFs with PASID isolation,ND SW Requirement,"=""22015560153""",https://hsdes.intel.com/resource/22015560153,"","",Unassigned
+364568,Single Root-IOV (SR-IOV) based VMs,ND SW Requirement,"=""22015543337""",https://hsdes.intel.com/resource/22015543337,"","",Unassigned
+364567,Documentation for idpf driver,ND SW Requirement,"=""22014013400""",https://hsdes.intel.com/resource/22014013400,"","",Unassigned
+364566,Statistics update frequency,ND SW Requirement,"=""22013817884""",https://hsdes.intel.com/resource/22013817884,"","",Unassigned
+350712,MEV SRS SPCP: Multiple vPorts per PF,ND SW Requirement,"=""22014826362""",https://hsdes.intel.com/resource/22014826362,"","",Unassigned
+350711,MEV SRS:  Linux LAN PF multiple vPorts,ND SW Requirement,"=""22014800049""",https://hsdes.intel.com/resource/22014800049,"","",Unassigned
+350710,AVF 2.0 XDP - AF_XDP with Zero Copy,ND SW Requirement,"=""22014796836""",https://hsdes.intel.com/resource/22014796836,"","",Unassigned
+350709,AVF 2.0 XDP,ND SW Requirement,"=""22014796822""",https://hsdes.intel.com/resource/22014796822,"","",Unassigned
+350708,AVF 2.0: Asymmetric Queue allocations,ND SW Requirement,"=""22014723791""",https://hsdes.intel.com/resource/22014723791,"","",Unassigned
+350707,S-IOV for Linux ACC host driver,ND SW Requirement,"=""22014604651""",https://hsdes.intel.com/resource/22014604651,"","",Unassigned
+350706,[S-IOV] Initial static configuration,ND SW Requirement,"=""22014604594""",https://hsdes.intel.com/resource/22014604594,"","",Unassigned
+350705,AVF 2.0 - Scalable-IOV (S-IOV) base VMs,ND SW Requirement,"=""22014604448""","","","",Unassigned
+350704,S-IOV for Linux Xeon host driver,ND SW Requirement,"=""22014598764""",https://hsdes.intel.com/resource/22014598764,"","",Unassigned
+350703,Asymmetric Queue allocations,ND SW Requirement,"=""22014467763""",https://hsdes.intel.com/resource/22014467763,"","",Unassigned
+350702,AVF 2.0 - Statistics update frequency,ND SW Requirement,"=""22013818196""",https://hsdes.intel.com/resource/22013818196,"","",Unassigned
+343152,Storage,Collection,"","","","",""
+339767,MEV-1 SPCP:  CLI support for configuration of UP to TC mappings,ND SW Requirement,"=""22011671615""",https://hsdes.intel.com/resource/22011671615,"","",Unassigned
+339766,MEV SRS:  Stats per NIC in counter_tool,ND SW Requirement,"=""22011671040""",https://hsdes.intel.com/resource/22011671040,"","",Unassigned
+336442,KPI:  LAN Minimum Achievable Latency,ND SW Requirement,"=""14014857605""",https://hsdes.intel.com/resource/14014857605,"","",Unassigned
+334637,KPI: Customer Absolute Maximum Throughput Requirements for 200G without RSC,ND SW Requirement,"=""14014857582""",https://hsdes.intel.com/resource/14014857582,"","",Unassigned
+334636,KPI: Customer Maximum Throughput Requirements for 200G with RSC,ND SW Requirement,"=""22013641664""",https://hsdes.intel.com/resource/22013641664,"","",Unassigned
+334635,ICE KPI Control plane,ND SW Requirement,"=""22013627033""",https://hsdes.intel.com/resource/22013627033,"","",Unassigned
+334634,ICE KPI Data plane,ND SW Requirement,"=""22013626960""",https://hsdes.intel.com/resource/22013626960,"","",Unassigned
+334633,ATE KPI,ND SW Requirement,"=""22013467133""",https://hsdes.intel.com/resource/22013467133,"","",Unassigned
+330713,Timing Wheel exclusivity,ND SW Requirement,"=""22013149736""",https://hsdes.intel.com/resource/22013149736,"","",Unassigned
+330712,AVF 2.0 - Timing Wheel exclusivity,ND SW Requirement,"=""22013149721""",https://hsdes.intel.com/resource/22013149721,"","",Unassigned
+330711,[NVME25] Initiator Errors,ND SW Requirement,"=""22013130658""",https://hsdes.intel.com/resource/22013130658,"","",Unassigned
+330710,[NVME19] NPI state save/restore (SW only),ND SW Requirement,"=""22013130657""",https://hsdes.intel.com/resource/22013130657,"","",Unassigned
+330709,[NVME21] MultiHome,ND SW Requirement,"=""22013130656""",https://hsdes.intel.com/resource/22013130656,"","",Unassigned
+330708,[NVME23] NVMe PF on ACC,ND SW Requirement,"=""22013130655""",https://hsdes.intel.com/resource/22013130655,"","",Unassigned
+330707,[NVME24] AER Commands,ND SW Requirement,"=""22013130654""",https://hsdes.intel.com/resource/22013130654,"","",Unassigned
+330706,[NVME22] NVMe CPF on ACC,ND SW Requirement,"=""22013130653""",https://hsdes.intel.com/resource/22013130653,"","",Unassigned
+330705,[NVME16.1] Initiator QoS: NVMe VMRL,ND SW Requirement,"=""22013130584""",https://hsdes.intel.com/resource/22013130584,"","",Unassigned
+330704,[NVME16] Initiator QoS,ND SW Requirement,"=""22013130582""",https://hsdes.intel.com/resource/22013130582,"","",Unassigned
+330703,[NVME12] Initiator SRIOV,ND SW Requirement,"=""22013130581""",https://hsdes.intel.com/resource/22013130581,"","",Unassigned
+330702,[NVME14] Initiator Exceptions,ND SW Requirement,"=""22013130580""",https://hsdes.intel.com/resource/22013130580,"","",Unassigned
+330701,[NVME13] Initiator encryption and protection,ND SW Requirement,"=""22013130579""",https://hsdes.intel.com/resource/22013130579,"","",Unassigned
+330700,[NVME15] Initiator Performance,ND SW Requirement,"=""22013130578""",https://hsdes.intel.com/resource/22013130578,"","",Unassigned
+330699,[NVME17] NVMe CPF on Xeon,ND SW Requirement,"=""22013130577""",https://hsdes.intel.com/resource/22013130577,"","",Unassigned
+330698,[NVME07] Initiator SW IO flows,ND SW Requirement,"=""22013130373""",https://hsdes.intel.com/resource/22013130373,"","",Unassigned
+330697,[NVME11.2] Initiator Resets: CORER,ND SW Requirement,"=""22013130372""",https://hsdes.intel.com/resource/22013130372,"","",Unassigned
+330696,[NVME08] Initiator HW IO flow (with debug loopback),ND SW Requirement,"=""22013130371""",https://hsdes.intel.com/resource/22013130371,"","",Unassigned
+330695,[NVME11.3] Initiator Resets: CPF FLR,ND SW Requirement,"=""22013130370""",https://hsdes.intel.com/resource/22013130370,"","",Unassigned
+330694,[NVME11.1] Initiator Resets: PF/VF FLR,ND SW Requirement,"=""22013130369""",https://hsdes.intel.com/resource/22013130369,"","",Unassigned
+330693,[NVME10] Initiator SQ drain,ND SW Requirement,"=""22013130368""",https://hsdes.intel.com/resource/22013130368,"","",Unassigned
+330692,[NVME04] Target SQ&CQ draining,ND SW Requirement,"=""22013130195""",https://hsdes.intel.com/resource/22013130195,"","",Unassigned
+330691,"[NVME03] Target Reset (CORER, CPF)",ND SW Requirement,"=""22013130194""",https://hsdes.intel.com/resource/22013130194,"","",Unassigned
+330690,[NVME02] Target IO flows (with debug loopback),ND SW Requirement,"=""22013130165""",https://hsdes.intel.com/resource/22013130165,"","",Unassigned
+330689,iDPF specific:  VLAN insertion (from AVF 1.1),ND SW Requirement,"=""22013121113""",https://hsdes.intel.com/resource/22013121113,"","",Unassigned
+330688,iDPF specific:  VLAN stripping (from AVF 1.1),ND SW Requirement,"=""22013121105""",https://hsdes.intel.com/resource/22013121105,"","",Unassigned
+330687,Auxiliary Bus  support for RDMA,ND SW Requirement,"=""22013115933""",https://hsdes.intel.com/resource/22013115933,"","",Unassigned
+330686,RDMA user-mode library - Support RDMA on Mount Evans devices,ND SW Requirement,"=""22013115932""",https://hsdes.intel.com/resource/22013115932,"","",Unassigned
+330685,RDMA Linux kernel driver - Support RDMA on Mount Evans devices,ND SW Requirement,"=""22013115931""",https://hsdes.intel.com/resource/22013115931,"","",Unassigned
+330684,XDP - AF_XDP with Zero Copy,ND SW Requirement,"=""22013115930""",https://hsdes.intel.com/resource/22013115930,"","",Unassigned
+330683,VIRTCHNL timeout,ND SW Requirement,"=""22013115929""",https://hsdes.intel.com/resource/22013115929,"","",Unassigned
+330682,Stateless offloads: Protocol specific Tx checksum,ND SW Requirement,"=""22013115928""",https://hsdes.intel.com/resource/22013115928,"","",Unassigned
+330681,Stateless offloads: Protocol specific Rx checksum,ND SW Requirement,"=""22013115927""",https://hsdes.intel.com/resource/22013115927,"","",Unassigned
+330680,MTU,ND SW Requirement,"=""22013115926""",https://hsdes.intel.com/resource/22013115926,"","",Unassigned
+330679,MAC address configuration,ND SW Requirement,"=""22013115925""",https://hsdes.intel.com/resource/22013115925,"","",Unassigned
+330678,XDP,ND SW Requirement,"=""22013115924""",https://hsdes.intel.com/resource/22013115924,"","",Unassigned
+330677,MAC address promiscuous mode,ND SW Requirement,"=""22013115923""",https://hsdes.intel.com/resource/22013115923,"","",Unassigned
+330676,RSS Input set configuration,ND SW Requirement,"=""22013115922""",https://hsdes.intel.com/resource/22013115922,"","",Unassigned
+330675,iDPF specific:  media layout,ND SW Requirement,"=""22013115919""",https://hsdes.intel.com/resource/22013115919,"","",Unassigned
+330674,"Queue, interrupt mapping and LUT size",ND SW Requirement,"=""22013115918""",https://hsdes.intel.com/resource/22013115918,"","",Unassigned
+330673,Driver specific readme file documentation for unified stats,ND SW Requirement,"=""22013115916""",https://hsdes.intel.com/resource/22013115916,"","",Unassigned
+330672,Build option for unified ethtool statistics,ND SW Requirement,"=""22013115914""",https://hsdes.intel.com/resource/22013115914,"","",Unassigned
+330671,RSS / XPS,ND SW Requirement,"=""22013115913""",https://hsdes.intel.com/resource/22013115913,"","",Unassigned
+330670,Link speed,ND SW Requirement,"=""22013115912""",https://hsdes.intel.com/resource/22013115912,"","",Unassigned
+330669,Stateless offloads: Generic Rx checksum (aka CHECKSUM_COMPLETE),ND SW Requirement,"=""22013115911""",https://hsdes.intel.com/resource/22013115911,"","",Unassigned
+330668,HW Tx USO / GSO UDP,ND SW Requirement,"=""22013115910""",https://hsdes.intel.com/resource/22013115910,"","",Unassigned
+330667,Standard Linux Networking Stack Integration,ND SW Requirement,"=""22013115909""",https://hsdes.intel.com/resource/22013115909,"","",Unassigned
+330666,ITR - Interrupt Throttling,ND SW Requirement,"=""22013115907""",https://hsdes.intel.com/resource/22013115907,"","",Unassigned
+330665,HVL exclusive:  SO_TXTIME HW offload,ND SW Requirement,"=""22013115906""",https://hsdes.intel.com/resource/22013115906,"","",Unassigned
+330664,Unrequested stripped VLANs,ND SW Requirement,"=""22013115905""",https://hsdes.intel.com/resource/22013115905,"","",Unassigned
+330663,HW GRO,ND SW Requirement,"=""22013115904""",https://hsdes.intel.com/resource/22013115904,"","",Unassigned
+330662,Header split,ND SW Requirement,"=""22013115903""",https://hsdes.intel.com/resource/22013115903,"","",Unassigned
+330661,Tx Out of Order completions for implicit flow scheduling,ND SW Requirement,"=""22013115902""",https://hsdes.intel.com/resource/22013115902,"","",Unassigned
+330660,RDMA user-mode library - Support RDMA on AVF 2.0 devices,ND SW Requirement,"=""22013114283""",https://hsdes.intel.com/resource/22013114283,"","",Unassigned
+330659,RDMA Linux kernel driver - Support RDMA on AVF 2.0 devices,ND SW Requirement,"=""22013114248""",https://hsdes.intel.com/resource/22013114248,"","",Unassigned
+330658,Package Integrity,ND SW Requirement,"=""22011674237""",https://hsdes.intel.com/resource/22011674237,"","",Unassigned
+330657,MEV-1 SPCP:  RSS read and write configuration via virt channel,ND SW Requirement,"=""22011671640""",https://hsdes.intel.com/resource/22011671640,"","",Unassigned
+330656,"LCE SDK Chaining:  Compression, Crypto and CRC32-C",ND SW Requirement,"=""22011671179""",https://hsdes.intel.com/resource/22011671179,"","",Unassigned
+330655,Feature support on ARM,ND SW Requirement,"=""14014336996""",https://hsdes.intel.com/resource/14014336996,"","",Unassigned
+325829,MEV SRS Storage,Collection,"","","","",""
+325806,AVF 2.0 - VIRTCHNL timeout,ND SW Requirement,"=""22013088567""",https://hsdes.intel.com/resource/22013088567,"","",Unassigned
+325805,MEV SRS: Windows Sample Data Plane Driver - Enable CET Shadow Stack security check,ND SW Requirement,"=""22013073895""",https://hsdes.intel.com/resource/22013073895,"","",Unassigned
+325804,MEV SRS: Windows Sample Data Plane Driver -  support for 16 queue-pairs,ND SW Requirement,"=""22013073894""",https://hsdes.intel.com/resource/22013073894,"","",Unassigned
+325803,MEV SRS: Windows Sample Data Plane Driver - DMA-remapping Support,ND SW Requirement,"=""22013073892""",https://hsdes.intel.com/resource/22013073892,"","",Unassigned
+325802,MEV SRS: Windows Sample Data Plane Driver - UDP Segmentation Offload,ND SW Requirement,"=""22013073891""",https://hsdes.intel.com/resource/22013073891,"","",Unassigned
+325801,MEV SRS: Windows Sample Data Plane Driver - WS2022 Driver Package with Universal INF,ND SW Requirement,"=""22013073890""",https://hsdes.intel.com/resource/22013073890,"","",Unassigned
+325800,MEV SRS: Windows Sample Data Plane Driver - Link speeds,ND SW Requirement,"=""22013073886""",https://hsdes.intel.com/resource/22013073886,"","",Unassigned
+325799,MEV SRS: Windows Sample Data Plane Driver - Add UniversalInstall Flag INF,ND SW Requirement,"=""22013073884""",https://hsdes.intel.com/resource/22013073884,"","",Unassigned
+325798,MEV SRS: Windows Sample Data Plane Driver - NDIS68 Driver Package with Universal INF,ND SW Requirement,"=""22013073876""",https://hsdes.intel.com/resource/22013073876,"","",Unassigned
+325797,MEV SRS: Windows Sample Data Plane Driver - error handling,ND SW Requirement,"=""22013073875""",https://hsdes.intel.com/resource/22013073875,"","",Unassigned
+325796,MEV SRS: Windows Sample Data Plane Driver -  file names,ND SW Requirement,"=""22013073874""",https://hsdes.intel.com/resource/22013073874,"","",Unassigned
+325795,RDMA registry keys: *NetworkDirect and *NetworkDirectTechnology,ND SW Requirement,"=""22013073871""",https://hsdes.intel.com/resource/22013073871,"","",Unassigned
+325794,MEV SRS: Windows Sample Data Plane Driver - Resource Requirement List,ND SW Requirement,"=""22013073870""",https://hsdes.intel.com/resource/22013073870,"","",Unassigned
+325793,MEV SRS: Windows Sample Data Plane Driver - Host and Guest OS Support Matrix - Windows Sample Data Plane Driver,ND SW Requirement,"=""22013073865""",https://hsdes.intel.com/resource/22013073865,"","",Unassigned
+325792,MEV SRS: Windows Sample Data Plane Driver - Virtual Channel compatibility,ND SW Requirement,"=""22013073864""",https://hsdes.intel.com/resource/22013073864,"","",Unassigned
+325791,MEV SRS: Windows Sample Data Plane Driver - Surprise Removal Detection and Handling,ND SW Requirement,"=""22013073862""",https://hsdes.intel.com/resource/22013073862,"","",Unassigned
+325790,MEV SRS: Windows: Sample Data Plane Driver - AVF 2.0 negotiation - minimum features,ND SW Requirement,"=""22013073861""",https://hsdes.intel.com/resource/22013073861,"","",Unassigned
+325789,MEV SRS: iWARP Windows SR-IOV guest on Linux Host,ND SW Requirement,"=""22013073860""",https://hsdes.intel.com/resource/22013073860,"","",Unassigned
+325788,Configure and initialize SR-IOV VFs,ND SW Requirement,"=""22013021961""",https://hsdes.intel.com/resource/22013021961,"","",Unassigned
+325787,iDPF specific:  TSO (from AVF 1.1),ND SW Requirement,"=""22013021313""",https://hsdes.intel.com/resource/22013021313,"","",Unassigned
+325786,AVF 2.0 - Stateless offloads: Protocol specific Rx checksum,ND SW Requirement,"=""22013009460""",https://hsdes.intel.com/resource/22013009460,"","",Unassigned
+325785,AVF 2.0 - Stateless offloads: Protocol specific Tx checksum,ND SW Requirement,"=""22013008914""",https://hsdes.intel.com/resource/22013008914,"","",Unassigned
+325784,AVF 2.0 - MAC address configuration,ND SW Requirement,"=""22013008530""",https://hsdes.intel.com/resource/22013008530,"","",Unassigned
+325783,AVF 2.0 - MTU,ND SW Requirement,"=""22013008242""",https://hsdes.intel.com/resource/22013008242,"","",Unassigned
+325782,AVF 2.0 - RSS LUT sizes and queue allocations,ND SW Requirement,"=""22012914695""",https://hsdes.intel.com/resource/22012914695,"","",Unassigned
+325781,AVF 2.0 - XDP,ND SW Requirement,"=""22012789428""",https://hsdes.intel.com/resource/22012789428,"","",Unassigned
+325780,AVF 2.0 - XDP - AF_XDP with Zero Copy,ND SW Requirement,"=""22012789351""",https://hsdes.intel.com/resource/22012789351,"","",Unassigned
+325779,MEV SRS: Hypervisor shall be KVM,ND SW Requirement,"=""22012784191""",https://hsdes.intel.com/resource/22012784191,"","",Unassigned
+325778,AVF 2.0 - Auxiliary Bus  support for RDMA,ND SW Requirement,"=""22012352327""",https://hsdes.intel.com/resource/22012352327,"","",Unassigned
+325777,AVF 2.0 - RSS Input set configuration,ND SW Requirement,"=""22012287510""",https://hsdes.intel.com/resource/22012287510,"","",Unassigned
+325776,AVF 2.0 - Fine-grained negotiation scope and logging,ND SW Requirement,"=""22012287245""",https://hsdes.intel.com/resource/22012287245,"","",Unassigned
+325775,AVF 2.0 - Ethernet CRC,ND SW Requirement,"=""22012279257""",https://hsdes.intel.com/resource/22012279257,"","",Unassigned
+325774,AVF 2.0 - MAC address promiscuous mode,ND SW Requirement,"=""22012279248""",https://hsdes.intel.com/resource/22012279248,"","",Unassigned
+325773,AVF 2.0 - Non-nested Single Root-IOV (SR-IOV) based VMs,ND SW Requirement,"=""22012278305""",https://hsdes.intel.com/resource/22012278305,"","",Unassigned
+325772,AVF 2.0 - Queue and interrupt mapping,ND SW Requirement,"=""22012278263""",https://hsdes.intel.com/resource/22012278263,"","",Unassigned
+325771,AVF 2.0 - Statistics consistency,ND SW Requirement,"=""22012242994""",https://hsdes.intel.com/resource/22012242994,"","",Unassigned
+325770,AVF 2.0 - Driver specific readme file documentation for unified stats,ND SW Requirement,"=""22012242984""",https://hsdes.intel.com/resource/22012242984,"","",Unassigned
+325769,AVF 2.0 - Build option for unified ethtool statistics,ND SW Requirement,"=""22012242977""",https://hsdes.intel.com/resource/22012242977,"","",Unassigned
+325768,AVF 2.0 - Link,ND SW Requirement,"=""22012233956""",https://hsdes.intel.com/resource/22012233956,"","",Unassigned
+325767,AVF 2.0 - HW Tx USO / GSO UDP,ND SW Requirement,"=""22012229361""",https://hsdes.intel.com/resource/22012229361,"","",Unassigned
+325766,AVF 2.0 - RSS / XPS,ND SW Requirement,"=""22012228272""",https://hsdes.intel.com/resource/22012228272,"","",Unassigned
+325765,AVF 2.0 - Standard Linux Networking Stack Integration,ND SW Requirement,"=""22012211623""",https://hsdes.intel.com/resource/22012211623,"","",Unassigned
+325764,AVF 2.0 - Stateless offloads: Generic Rx checksum (aka CHECKSUM_COMPLETE),ND SW Requirement,"=""22012162256""",https://hsdes.intel.com/resource/22012162256,"","",Unassigned
+325763,AVF 2.0 - HW GRO,ND SW Requirement,"=""22012161891""",https://hsdes.intel.com/resource/22012161891,"","",Unassigned
+325762,AVF 2.0 - SO_TXTIME HW offload,ND SW Requirement,"=""22012161461""",https://hsdes.intel.com/resource/22012161461,"","",Unassigned
+325761,AVF 2.0 - Header split,ND SW Requirement,"=""22012160964""",https://hsdes.intel.com/resource/22012160964,"","",Unassigned
+325760,Disassemble,ND SW Requirement,"=""22011674244""",https://hsdes.intel.com/resource/22011674244,"","",Unassigned
+325759,Post-Processing,ND SW Requirement,"=""22011674241""",https://hsdes.intel.com/resource/22011674241,"","",Unassigned
+325758,Package Integrity,ND SW Requirement,"=""22011674241""",https://hsdes.intel.com/resource/22011674237,"","",Unassigned
+325757,Linker,ND SW Requirement,"=""22011674232""",https://hsdes.intel.com/resource/22011674232,"","",Unassigned
+325756,Error Reporting,ND SW Requirement,"=""22011674228""",https://hsdes.intel.com/resource/22011674228,"","",Unassigned
+325755,Assembly,ND SW Requirement,"=""22011674222""",https://hsdes.intel.com/resource/22011674222,"","",Unassigned
+325754,Tool Chain Driver,ND SW Requirement,"=""22011674211""",https://hsdes.intel.com/resource/22011674211,"","",Unassigned
+325753,Preprocessor,ND SW Requirement,"=""22011674206""",https://hsdes.intel.com/resource/22011674206,"","",Unassigned
+325752,CPT Readme,ND SW Requirement,"=""22011674204""",https://hsdes.intel.com/resource/22011674204,"","",Unassigned
+325751,Do Not Modify Signed Packages,ND SW Requirement,"=""22011674202""",https://hsdes.intel.com/resource/22011674202,"","",Unassigned
+325750,Command Line Interface,ND SW Requirement,"=""22011674197""",https://hsdes.intel.com/resource/22011674197,"","",Unassigned
+325749,Remove all Temporary and Intermediate Files,ND SW Requirement,"=""22011674193""",https://hsdes.intel.com/resource/22011674193,"","",Unassigned
+325748,Do not Modify Input Files,ND SW Requirement,"=""22011674190""",https://hsdes.intel.com/resource/22011674190,"","",Unassigned
+325747,No Additional Software Required,ND SW Requirement,"=""22011674185""",https://hsdes.intel.com/resource/22011674185,"","",Unassigned
+325746,Administrative Rights Not Required,ND SW Requirement,"=""22011674182""",https://hsdes.intel.com/resource/22011674182,"","",Unassigned
+325745,CPT Components,ND SW Requirement,"=""22011674177""",https://hsdes.intel.com/resource/22011674177,"","",Unassigned
+325744,MEV-1 SPCP VIRTCHNL:  MAC address requests not honored,ND SW Requirement,"=""22011671644""",https://hsdes.intel.com/resource/22011671644,"","",Unassigned
+325743,"MEV-1 SPCP: CLI support for configuration of meters, and rate limits for rules",ND SW Requirement,"=""22011671617""",https://hsdes.intel.com/resource/22011671617,"","",Unassigned
+325742,SQE support,ND SW Requirement,"=""22011671566""",https://hsdes.intel.com/resource/22011671566,"","",Unassigned
+325741,IPsec - Extended Sequence Number,ND SW Requirement,"=""22011671420""",https://hsdes.intel.com/resource/22011671420,"","",Unassigned
+325740,IPsec - IV generation,ND SW Requirement,"=""22011671417""",https://hsdes.intel.com/resource/22011671417,"","",Unassigned
+325739,IPsec - TFC padding,ND SW Requirement,"=""22011671416""",https://hsdes.intel.com/resource/22011671416,"","",Unassigned
+325738,IPsec - Encapsulation Modes,ND SW Requirement,"=""22011671412""",https://hsdes.intel.com/resource/22011671412,"","",Unassigned
+325737,PCR22: CISPv2 and SecureSADB,ND SW Requirement,"=""22011671410""",https://hsdes.intel.com/resource/22011671410,"","",Unassigned
+325736,Packet Length Updates,ND SW Requirement,"=""22011671403""",https://hsdes.intel.com/resource/22011671403,"","",Unassigned
+325735,Zeroisation,ND SW Requirement,"=""22011671397""",https://hsdes.intel.com/resource/22011671397,"","",Unassigned
+325734,Support 16 million IPsec Security Associations (SAs).,ND SW Requirement,"=""22011671389""",https://hsdes.intel.com/resource/22011671389,"","",Unassigned
+325733,IPsec - HW control and dataplane termination,ND SW Requirement,"=""22011671386""",https://hsdes.intel.com/resource/22011671386,"","",Unassigned
+325732,IPsec Auditing,ND SW Requirement,"=""22011671384""",https://hsdes.intel.com/resource/22011671384,"","",Unassigned
+325731,IPsec Statistics - Per SA,ND SW Requirement,"=""22011671380""",https://hsdes.intel.com/resource/22011671380,"","",Unassigned
+325730,IPsec Aging - Soft Limit,ND SW Requirement,"=""22011671375""",https://hsdes.intel.com/resource/22011671375,"","",Unassigned
+325729,IPsec - SPD Offload,ND SW Requirement,"=""22011671371""",https://hsdes.intel.com/resource/22011671371,"","",Unassigned
+325728,IPsec - Padding generation and verification,ND SW Requirement,"=""22011671370""",https://hsdes.intel.com/resource/22011671370,"","",Unassigned
+325727,LCE SDK Virtual Memory,ND SW Requirement,"=""22011671183""",https://hsdes.intel.com/resource/22011671183,"","",Unassigned
+325726,LCE SDK NIST CAVP certification,ND SW Requirement,"=""22011671180""",https://hsdes.intel.com/resource/22011671180,"","",Unassigned
+325725,MEV SRS:   Windows Sample Data Plane Function - Tx Out of Order completions for implicit flow scheduling,ND SW Requirement,"=""22011671113""",https://hsdes.intel.com/resource/22011671113,"","",Unassigned
+325724,MEV SRS: RSS,ND SW Requirement,"=""22011671011""",https://hsdes.intel.com/resource/22011671011,"","",Unassigned
+325723,AVF 2.0 - Tx Out of Order completions for implicit flow scheduling,ND SW Requirement,"=""14013723431""",https://hsdes.intel.com/resource/14013723431,"","",Unassigned
+325721,AVF 2.0 - ITR - Interrupt Throttling,ND SW Requirement,"=""14013473033""",https://hsdes.intel.com/resource/14013473033,"","",Unassigned
+325720,MEV SRS:  Interrupt Moderation - ITR,ND SW Requirement,"=""14012923482""",https://hsdes.intel.com/resource/14012923482,"","",Unassigned
+325719,MEV SRS:  SO_TXTIME HW offload (aka EFT or EDT),ND SW Requirement,"=""14012923477""",https://hsdes.intel.com/resource/14012923477,"","",Unassigned
+325718,MEV SRS: Jumbo Frames,ND SW Requirement,"=""14012923471""",https://hsdes.intel.com/resource/14012923471,"","",Unassigned
+325717,MEV:SRS Kernel version to be defined in the BKC,ND SW Requirement,"=""14012923369""",https://hsdes.intel.com/resource/14012923369,"","",Unassigned
+325716,MEV SRS: Single Linux distribution as defined in the BKC,ND SW Requirement,"=""14012923366""",https://hsdes.intel.com/resource/14012923366,"","",Unassigned
+325715,MEV SRS:  Linux LAN PF/VF drivers upstream,ND SW Requirement,"=""14012923365""",https://hsdes.intel.com/resource/14012923365,"","",Unassigned
+278420,MEV-1 SPCP:  CLI support for link events,ND SW Requirement,"=""22011671625""",https://hsdes.intel.com/resource/22011671625,"","",Unassigned
+278419,[Superseded by SW DCR 3399] MEV SRS: VF Standard Network connectivity (netdev) into the host,ND SW Requirement,"=""22011671094""",https://hsdes.intel.com/resource/22011671094,"","",Unassigned
+278418,[Superseded by SW DCR 3399] MEV SRS: VF Link speed reporting,ND SW Requirement,"=""22011671092""",https://hsdes.intel.com/resource/22011671092,"","",Unassigned
+278417,MEV SRS: Rx HW GRO,ND SW Requirement,"=""14012923486""",https://hsdes.intel.com/resource/14012923486,"","",Unassigned
+278416,[Superceded by SW DCR 3399] MEV SRS: VF Rx SW GRO,ND SW Requirement,"=""22011671107""",https://hsdes.intel.com/resource/22011671107,"","",Unassigned
+278415,[Superseded by SW DCR 3399] MEV SRS:  VF Interrupt Moderation ITR,ND SW Requirement,"=""22011671104""",https://hsdes.intel.com/resource/22011671104,"","",Unassigned
+278414,[Superseded by SW DCR 3399] MEV SRS: VF RSS / XPS,ND SW Requirement,"=""22011671095""",https://hsdes.intel.com/resource/22011671095,"","",Unassigned
+278412,MEV SRS: Tx VLAN insertion offload,ND SW Requirement,"=""22011671049""",https://hsdes.intel.com/resource/22011671049,"","",Unassigned
+274721,LAD-LADSWReq-19074 IMC Reset application (Reset_App) should enables traffic (in HW level) by writing LAN and MAC registers.,ND SW Requirement,"=""23400355""",https://jama4.intel.com/perspective.req#/items/23400355?projectId=57,"","",Unassigned
+274649,LAD-LADSWReq-20631 MEV-1 PCR123: Flex Rx descriptor layout changes,ND SW Requirement,"=""25867971""",https://jama4.intel.com/perspective.req#/items/25867971?projectId=57,"","",Unassigned
+274645,LAD-LADSWReq-20006 MEV-1 PCR120: FXP bypass required to meet latency KPI for CRT packets,ND SW Requirement,"=""24491354""",https://jama4.intel.com/perspective.req#/items/24491354?projectId=57,"","",Unassigned
+274644,LAD-LADSWReq-20005 MEV-1 PCR119: LCE CRC Protection Features,ND SW Requirement,"=""24491351""",https://jama4.intel.com/perspective.req#/items/24491351?projectId=57,"","",Unassigned
+274642,LAD-LADSWReq-20003 MEV-1 PCR117: Enabling Control Plane software on Xeon Host,ND SW Requirement,"=""24491308""",https://jama4.intel.com/perspective.req#/items/24491308?projectId=57,"","",Unassigned
+274641,LAD-LADSWReq-20002 MEV-1 PCR116: LCE Compression buffer alignment,ND SW Requirement,"=""24491289""",https://jama4.intel.com/perspective.req#/items/24491289?projectId=57,"","",Unassigned
+274640,LAD-LADSWReq-20001 MEV-1 PCR115: RSC packet increase to 64KB,ND SW Requirement,"=""24491083""",https://jama4.intel.com/perspective.req#/items/24491083?projectId=57,"","",Unassigned
+274620,PCR22: CISPv2 and SecureSADB,ND SW Requirement,"=""22011671410""",https://hsdes.intel.com/resource/22011671410,"","",Unassigned
+274618,LAD-LADSWReq-17812 MEV-1 PCR20: FXP#6,ND SW Requirement,"=""23068501""",https://jama4.intel.com/perspective.req#/items/23068501?projectId=57,"","",Unassigned
+274617,LAD-LADSWReq-17811 MEV-1 PCR19: Split Header Payload Support,ND SW Requirement,"=""23068498""",https://jama4.intel.com/perspective.req#/items/23068498?projectId=57,"","",Unassigned
+274608,LAD-LADSWReq-17802 MEV-1 PCR10 FXP #3 Improved mirroring and metering,ND SW Requirement,"=""23068380""",https://jama4.intel.com/perspective.req#/items/23068380?projectId=57,"","",Unassigned
+274600,LAD-LADSWReq-17793 MEV-1 PCR2: Incorporate CSEC Functionality into ICE by Implementing CISP,ND SW Requirement,"=""23060564""",https://jama4.intel.com/perspective.req#/items/23060564?projectId=57,"","",Unassigned
+274593,LAD-LADSWReq-19879 FXP PCR20.7 - Packet/byte statistics for LAN that are per-queue and pre-TSO/post-LRO,ND SW Requirement,"=""23967576""",https://jama4.intel.com/perspective.req#/items/23967576?projectId=57,"","",Unassigned
+274592,LAD-LADSWReq-19878 FXP PCR20.6 - Increase maximum number of modify groups from 8 to 10,ND SW Requirement,"=""23967575""",https://jama4.intel.com/perspective.req#/items/23967575?projectId=57,"","",Unassigned
+274591,LAD-LADSWReq-19877 FXP PCR20.5 - Support Modify command for insert up to N bytes from modify content,ND SW Requirement,"=""23967574""",https://jama4.intel.com/perspective.req#/items/23967574?projectId=57,"","",Unassigned
+274590,"LAD-LADSWReq-19876 FXP PCR20.4 - Increase modify profiles from 1K to 2K and field extraction config from 256 to 512 (was 4K, reduced)",ND SW Requirement,"=""23967573""",https://jama4.intel.com/perspective.req#/items/23967573?projectId=57,"","",Unassigned
+274585,LAD-LADSWReq-19871 FXP PCR17.11 - Support per-direction Parser profile generation key extraction & increase Parser profile generation key size to 12 bytes,ND SW Requirement,"=""23967568""",https://jama4.intel.com/perspective.req#/items/23967568?projectId=57,"","",Unassigned
+274584,LAD-LADSWReq-19870 FXP PCR17.10 - Increase parser profiles from 8 to 16,ND SW Requirement,"=""23967567""",https://jama4.intel.com/perspective.req#/items/23967567?projectId=57,"","",Unassigned
+274579,LAD-LADSWReq-19865 FXP PCR17.5 - Increase SEM actions from 8 to 18,ND SW Requirement,"=""23967562""",https://jama4.intel.com/perspective.req#/items/23967562?projectId=57,"","",Unassigned
+274578,LAD-LADSWReq-19864 FXP PCR17.4 - Support dual lookups in the SEM with 96B entries,ND SW Requirement,"=""23967561""",https://jama4.intel.com/perspective.req#/items/23967561?projectId=57,"","",Unassigned
+274575,LAD-LADSWReq-19861 FXP PCR17.1 - Increase LEM actions from 8 to 12 for 64B entries.,ND SW Requirement,"=""23967558""",https://jama4.intel.com/perspective.req#/items/23967558?projectId=57,"","",Unassigned
+274572,LAD-LADSWReq-19858 FXP PCR12.9 - Increase number of hash profiles config from 64 to 128,ND SW Requirement,"=""23967555""",https://jama4.intel.com/perspective.req#/items/23967555?projectId=57,"","",Unassigned
+274570,LAD-LADSWReq-19856 FXP PCR12.7 - Increase WCM action RAMs,ND SW Requirement,"=""23967553""",https://jama4.intel.com/perspective.req#/items/23967553?projectId=57,"","",Unassigned
+274569,"LAD-LADSWReq-19855 FXP PCR12.6 - Provide per modify profile per LUT index, shift and mask",ND SW Requirement,"=""23967552""",https://jama4.intel.com/perspective.req#/items/23967552?projectId=57,"","",Unassigned
+274566,LAD-LADSWReq-19852 FXP PCR12.3 - Increase LPM TCAM table,ND SW Requirement,"=""23967549""",https://jama4.intel.com/perspective.req#/items/23967549?projectId=57,"","",Unassigned
+274558,LAD-LADSWReq-19844 FXP PCR10.7 - Increase number of on-die meters from 6K to 12K,ND SW Requirement,"=""23967541""",https://jama4.intel.com/perspective.req#/items/23967541?projectId=57,"","",Unassigned
+274556,LAD-LADSWReq-19842 FXP PCR10.5 - Encap mirror copy with parts of original packet action bus,ND SW Requirement,"=""23967539""",https://jama4.intel.com/perspective.req#/items/23967539?projectId=57,"","",Unassigned
+274550,LAD-LADSWReq-19836 FXP PCR8.8 - Increase LEM profiles from 1K -> 2K,ND SW Requirement,"=""23967533""",https://jama4.intel.com/perspective.req#/items/23967533?projectId=57,"","",Unassigned
+274548,LAD-LADSWReq-19834 FXP PCR8.6 - Atomic Reads for LEM/SEM,ND SW Requirement,"=""23967531""",https://jama4.intel.com/perspective.req#/items/23967531?projectId=57,"","",Unassigned
+274546,LAD-LADSWReq-19832 FXP PCR8.4 - Support LEM profile hit/miss action sets,ND SW Requirement,"=""23967529""",https://jama4.intel.com/perspective.req#/items/23967529?projectId=57,"","",Unassigned
+274536,MEV-1 FPCP:  Limited multicast filters,ND SW Requirement,"=""22012783918""",https://hsdes.intel.com/resource/22012783918,"","",Unassigned
+274535,MEV-1 FPCP:  Broadcast Filters,ND SW Requirement,"=""22011671641""",https://hsdes.intel.com/resource/22011671641,"","",Unassigned
+274532,MEV-1 SPCP: CLI support for configuration of the Arbiter settings,ND SW Requirement,"=""22011671621""",https://hsdes.intel.com/resource/22011671621,"","",Unassigned
+274531,MEV-1 SPCP: CLI support for configuration of mirror rules,ND SW Requirement,"=""22011671619""",https://hsdes.intel.com/resource/22011671619,"","",Unassigned
+274530,"MEV-1 SPCP: CLI support for configuration of meters, and rate limits for rules",ND SW Requirement,"=""22011671617""",https://hsdes.intel.com/resource/22011671617,"","",Unassigned
+274529,"MEV-1 SPCP:  CLI support for configuration of UP-UP, UP-TC mappings and loopback",ND SW Requirement,"=""22011671615""",https://hsdes.intel.com/resource/22011671615,"","",Unassigned
+274528,MEV-1 SPCP: CLI support for configuration of the traffic shaper,ND SW Requirement,"=""22011671614""",https://hsdes.intel.com/resource/22011671614,"","",Unassigned
+274527,MEV-1 SPCP:  CLI support for configuration of the VSI and TC quotas,ND SW Requirement,"=""22011671612""",https://hsdes.intel.com/resource/22011671612,"","",Unassigned
+274526,MEV-1 SPCP:  RSS read and write configuration via virt channel,ND SW Requirement,"=""14013153037""",https://hsdes.intel.com/resource/14013153037,"","",Unassigned
+274525,MEV-1 SPCP: CLI support for configuration of Tx VM Rate Limiter,ND SW Requirement,"=""22011671638""",https://hsdes.intel.com/resource/22011671638,"","",Unassigned
+274524,MEV-1 SPCP:  CLI support for configuration of the Global Transmit Rate Limiter,ND SW Requirement,"=""22011671637""",https://hsdes.intel.com/resource/22011671637,"","",Unassigned
+274523,MEV-1 SPCP:  CLI support for configuration of LAN work scheduler VM rate limits,ND SW Requirement,"=""22011671635""",https://hsdes.intel.com/resource/22011671635,"","",Unassigned
+274522,MEV-1 SPCP: CLI support for configuration of rules for Rx VLAN to TC mapping,ND SW Requirement,"=""22011671634""",https://hsdes.intel.com/resource/22011671634,"","",Unassigned
+274521,MEV-1 SPCP: CLI support for configuration of rules for Tx VLAN tagging based on TCs,ND SW Requirement,"=""22011671632""",https://hsdes.intel.com/resource/22011671632,"","",Unassigned
+274520,MEV-1 SPCP: LAN Tx Control Queue Rate Limits,ND SW Requirement,"=""22011671630""",https://hsdes.intel.com/resource/22011671630,"","",Unassigned
+274519,MEV-1 SPCP: CLI support for configuration of LAN Tx Data VSI Rate Limits,ND SW Requirement,"=""22011671628""",https://hsdes.intel.com/resource/22011671628,"","",Unassigned
+274518,MEV-1 SPCP: Default Tx configuration:  equal bandwidths for sibling nodes,ND SW Requirement,"=""22011671610""",https://hsdes.intel.com/resource/22011671610,"","",Unassigned
+274517,Support NVMe extended LBA Metadata,ND SW Requirement,"=""22011671597""",https://hsdes.intel.com/resource/22011671597,"","",Unassigned
+274516,Debug reads,ND SW Requirement,"=""22011671595""",https://hsdes.intel.com/resource/22011671595,"","",Unassigned
+274515,Round robin arbitration for CQs,ND SW Requirement,"=""22011671593""",https://hsdes.intel.com/resource/22011671593,"","",Unassigned
+274514,Determining tCMD association,ND SW Requirement,"=""22011671590""",https://hsdes.intel.com/resource/22011671590,"","",Unassigned
+274513,tCID as SQE's CID field,ND SW Requirement,"=""22011671589""",https://hsdes.intel.com/resource/22011671589,"","",Unassigned
+274512,Round robin arbitration for SQs,ND SW Requirement,"=""22011671588""",https://hsdes.intel.com/resource/22011671588,"","",Unassigned
+274511,Support fetch timer configuration,ND SW Requirement,"=""22011671586""",https://hsdes.intel.com/resource/22011671586,"","",Unassigned
+274510,CQ Head Doorbell support,ND SW Requirement,"=""22011671585""",https://hsdes.intel.com/resource/22011671585,"","",Unassigned
+274509,CQ allocated in SLC Slice or DRAM,ND SW Requirement,"=""22011671583""",https://hsdes.intel.com/resource/22011671583,"","",Unassigned
+274508,CQE support,ND SW Requirement,"=""22011671581""",https://hsdes.intel.com/resource/22011671581,"","",Unassigned
+274507,Not limit SSD to tCQID and CQID to tCQID,ND SW Requirement,"=""22011671580""",https://hsdes.intel.com/resource/22011671580,"","",Unassigned
+274506,Support 64 CQs,ND SW Requirement,"=""22011671578""",https://hsdes.intel.com/resource/22011671578,"","",Unassigned
+274505,N:1 SQ:CQ mapping,ND SW Requirement,"=""22011671576""",https://hsdes.intel.com/resource/22011671576,"","",Unassigned
+274504,1:1 SQ:CQ mapping,ND SW Requirement,"=""22011671572""",https://hsdes.intel.com/resource/22011671572,"","",Unassigned
+274503,SQ Tail Doorbell support,ND SW Requirement,"=""22011671570""",https://hsdes.intel.com/resource/22011671570,"","",Unassigned
+274502,"SQ allocated in SSD CMB, SLC Slice or DRAM",ND SW Requirement,"=""22011671568""",https://hsdes.intel.com/resource/22011671568,"","",Unassigned
+274501,SQE support,ND SW Requirement,"=""22011671566""",https://hsdes.intel.com/resource/22011671566,"","",Unassigned
+274500,Not limit SSD to tSQID and SQID to tSQID,ND SW Requirement,"=""22011671562""",https://hsdes.intel.com/resource/22011671562,"","",Unassigned
+274499,Support 64 SQs,ND SW Requirement,"=""22011671561""",https://hsdes.intel.com/resource/22011671561,"","",Unassigned
+274498,Return tCPL to Target Block,ND SW Requirement,"=""22011671558""",https://hsdes.intel.com/resource/22011671558,"","",Unassigned
+274497,Receive tCMD and return tCMD Status,ND SW Requirement,"=""22011671554""",https://hsdes.intel.com/resource/22011671554,"","",Unassigned
+274496,Enable NVMe I/O commands,ND SW Requirement,"=""22011671553""",https://hsdes.intel.com/resource/22011671553,"","",Unassigned
+274495,Support Hot Swap of SSD,ND SW Requirement,"=""22011671551""",https://hsdes.intel.com/resource/22011671551,"","",Unassigned
+274494,NVMe In/Out operations per second @ 4KsB,ND SW Requirement,"=""22011671608""",https://hsdes.intel.com/resource/22011671608,"","",Unassigned
+274493,Support CMB,ND SW Requirement,"=""22011671607""",https://hsdes.intel.com/resource/22011671607,"","",Unassigned
+274492,Not support Fused Commands,ND SW Requirement,"=""22011671604""",https://hsdes.intel.com/resource/22011671604,"","",Unassigned
+274491,Support NVMe MPTR based LBA Metadata,ND SW Requirement,"=""22011671602""",https://hsdes.intel.com/resource/22011671602,"","",Unassigned
+274490,Support NVMe Payload Descriptors,ND SW Requirement,"=""22011671601""",https://hsdes.intel.com/resource/22011671601,"","",Unassigned
+274489,SSD attached Xeon,ND SW Requirement,"=""22011671600""",https://hsdes.intel.com/resource/22011671600,"","",Unassigned
+274488,SSD attached NIC,ND SW Requirement,"=""22011671592""",https://hsdes.intel.com/resource/22011671592,"","",Unassigned
+274487,Support at least 4KiB of memory per CQ,ND SW Requirement,"=""22011671575""",https://hsdes.intel.com/resource/22011671575,"","",Unassigned
+274486,SSD per PCIe,ND SW Requirement,"=""22011671547""",https://hsdes.intel.com/resource/22011671547,"","",Unassigned
+274485,Reset flow,ND SW Requirement,"=""22011671540""",https://hsdes.intel.com/resource/22011671540,"","",Unassigned
+274484,Multi process library,ND SW Requirement,"=""22011671539""",https://hsdes.intel.com/resource/22011671539,"","",Unassigned
+274483,Thread safe library,ND SW Requirement,"=""22011671538""",https://hsdes.intel.com/resource/22011671538,"","",Unassigned
+274482,CPF interrupts processing model,ND SW Requirement,"=""22011671535""",https://hsdes.intel.com/resource/22011671535,"","",Unassigned
+274481,NAPI like CMD/Event processing model,ND SW Requirement,"=""22011671532""",https://hsdes.intel.com/resource/22011671532,"","",Unassigned
+274480,Pooling CMD/Event processing model,ND SW Requirement,"=""22011671529""",https://hsdes.intel.com/resource/22011671529,"","",Unassigned
+274479,Threading model,ND SW Requirement,"=""22011671525""",https://hsdes.intel.com/resource/22011671525,"","",Unassigned
+274478,Low-level stateless HW abstraction,ND SW Requirement,"=""22011671524""",https://hsdes.intel.com/resource/22011671524,"","",Unassigned
+274477,Trace and debugging,ND SW Requirement,"=""22011671523""",https://hsdes.intel.com/resource/22011671523,"","",Unassigned
+274476,HAS defined features in API,ND SW Requirement,"=""22011671522""",https://hsdes.intel.com/resource/22011671522,"","",Unassigned
+274475,C11 compliant,ND SW Requirement,"=""22011671521""",https://hsdes.intel.com/resource/22011671521,"","",Unassigned
+274474,Independed code,ND SW Requirement,"=""22011671516""",https://hsdes.intel.com/resource/22011671516,"","",Unassigned
+274473,Executable on non-Linux OS,ND SW Requirement,"=""22011671511""",https://hsdes.intel.com/resource/22011671511,"","",Unassigned
+274472,Executable on Linux OS,ND SW Requirement,"=""22011671509""",https://hsdes.intel.com/resource/22011671509,"","",Unassigned
+274471,Executable on Xeon,ND SW Requirement,"=""22011671507""",https://hsdes.intel.com/resource/22011671507,"","",Unassigned
+274470,Executable on ARM A53,ND SW Requirement,"=""22011671503""",https://hsdes.intel.com/resource/22011671503,"","",Unassigned
+274469,Executable on ACC,ND SW Requirement,"=""22011671502""",https://hsdes.intel.com/resource/22011671502,"","",Unassigned
+274468,User-mode library,ND SW Requirement,"=""22011671500""",https://hsdes.intel.com/resource/22011671500,"","",Unassigned
+274467,Big/little endian,ND SW Requirement,"=""22011671499""",https://hsdes.intel.com/resource/22011671499,"","",Unassigned
+274466,NVME CPF CSRs,ND SW Requirement,"=""22011671498""",https://hsdes.intel.com/resource/22011671498,"","",Unassigned
+274465,Volatile Write Cache,ND SW Requirement,"=""22011671497""",https://hsdes.intel.com/resource/22011671497,"","",Unassigned
+274464,NVMe Optional Command support,ND SW Requirement,"=""22011671496""",https://hsdes.intel.com/resource/22011671496,"","",Unassigned
+274463,Cryptography Export Disable,ND SW Requirement,"=""22011671495""",https://hsdes.intel.com/resource/22011671495,"","",Unassigned
+274462,Encryption Key Model,ND SW Requirement,"=""22011671492""",https://hsdes.intel.com/resource/22011671492,"","",Unassigned
+274461,Encryption Support in SW path,ND SW Requirement,"=""22011671490""",https://hsdes.intel.com/resource/22011671490,"","",Unassigned
+274460,Encryption Support in HW path,ND SW Requirement,"=""22011671487""",https://hsdes.intel.com/resource/22011671487,"","",Unassigned
+274459,Integrity Checks,ND SW Requirement,"=""22011671486""",https://hsdes.intel.com/resource/22011671486,"","",Unassigned
+274458,Memory Management,ND SW Requirement,"=""22011671485""",https://hsdes.intel.com/resource/22011671485,"","",Unassigned
+274457,Payload DMA for SW flows,ND SW Requirement,"=""22011671484""",https://hsdes.intel.com/resource/22011671484,"","",Unassigned
+274456,Payload DMA for HW flows,ND SW Requirement,"=""22011671482""",https://hsdes.intel.com/resource/22011671482,"","",Unassigned
+274455,Hot Swap,ND SW Requirement,"=""22011671480""",https://hsdes.intel.com/resource/22011671480,"","",Unassigned
+274454,Host Memory Buffer,ND SW Requirement,"=""22011671478""",https://hsdes.intel.com/resource/22011671478,"","",Unassigned
+274453,Controller Memory Buffer (CMB) on Initiator,ND SW Requirement,"=""22011671476""",https://hsdes.intel.com/resource/22011671476,"","",Unassigned
+274452,Live Migration Support,ND SW Requirement,"=""22011671475""",https://hsdes.intel.com/resource/22011671475,"","",Unassigned
+274451,Host Data Transfer Format,ND SW Requirement,"=""22011671473""",https://hsdes.intel.com/resource/22011671473,"","",Unassigned
+274450,NSSR,ND SW Requirement,"=""22011671469""",https://hsdes.intel.com/resource/22011671469,"","",Unassigned
+274449,Advertised MDTS,ND SW Requirement,"=""22011671467""",https://hsdes.intel.com/resource/22011671467,"","",Unassigned
+274448,NPI Target Drive Sector Format,ND SW Requirement,"=""22011671466""",https://hsdes.intel.com/resource/22011671466,"","",Unassigned
+274447,End-to-end protection,ND SW Requirement,"=""22011671465""",https://hsdes.intel.com/resource/22011671465,"","",Unassigned
+274446,Host Metadata Format,ND SW Requirement,"=""22011671464""",https://hsdes.intel.com/resource/22011671464,"","",Unassigned
+274445,Namespace Formats: Metadata size,ND SW Requirement,"=""22011671463""",https://hsdes.intel.com/resource/22011671463,"","",Unassigned
+274444,Namespace Formats: Block size,ND SW Requirement,"=""22011671462""",https://hsdes.intel.com/resource/22011671462,"","",Unassigned
+274443,Namespace Management capability,ND SW Requirement,"=""22011671460""",https://hsdes.intel.com/resource/22011671460,"","",Unassigned
+274442,Physical namespace sharing,ND SW Requirement,"=""22011671459""",https://hsdes.intel.com/resource/22011671459,"","",Unassigned
+274441,Namespace sharing,ND SW Requirement,"=""22011671457""",https://hsdes.intel.com/resource/22011671457,"","",Unassigned
+274440,Namespace identification per function,ND SW Requirement,"=""22011671455""",https://hsdes.intel.com/resource/22011671455,"","",Unassigned
+274439,# of namespaces,ND SW Requirement,"=""22011671453""",https://hsdes.intel.com/resource/22011671453,"","",Unassigned
+274438,TX BW Rate Limiting per VM,ND SW Requirement,"=""22011671452""",https://hsdes.intel.com/resource/22011671452,"","",Unassigned
+274437,BW and IOP Rate Limiting per function,ND SW Requirement,"=""22011671450""",https://hsdes.intel.com/resource/22011671450,"","",Unassigned
+274436,# of ICMD,ND SW Requirement,"=""22011671446""",https://hsdes.intel.com/resource/22011671446,"","",Unassigned
+274435,IOPS,ND SW Requirement,"=""22011671445""",https://hsdes.intel.com/resource/22011671445,"","",Unassigned
+274434,QP allocation to VFs,ND SW Requirement,"=""22011671443""",https://hsdes.intel.com/resource/22011671443,"","",Unassigned
+274433,QP allocation to PFs,ND SW Requirement,"=""22011671441""",https://hsdes.intel.com/resource/22011671441,"","",Unassigned
+274432,VF Allocation to a PF,ND SW Requirement,"=""22011671440""",https://hsdes.intel.com/resource/22011671440,"","",Unassigned
+274431,Multiple IO SQs to single IO CQ,ND SW Requirement,"=""22011671438""",https://hsdes.intel.com/resource/22011671438,"","",Unassigned
+274430,"# of Queue Pairs (SQ, CQ)",ND SW Requirement,"=""22011671434""",https://hsdes.intel.com/resource/22011671434,"","",Unassigned
+274429,Admin Command Support,ND SW Requirement,"=""22011671433""",https://hsdes.intel.com/resource/22011671433,"","",Unassigned
+274428,MSI-X Vectors,ND SW Requirement,"=""22011671432""",https://hsdes.intel.com/resource/22011671432,"","",Unassigned
+274427,NVMe Interrupt Aggregation,ND SW Requirement,"=""22011671430""",https://hsdes.intel.com/resource/22011671430,"","",Unassigned
+274426,NVMe CPF,ND SW Requirement,"=""22011671429""",https://hsdes.intel.com/resource/22011671429,"","",Unassigned
+274425,no Separate PASIDs for commands and data payload DMA,ND SW Requirement,"=""22011671428""",https://hsdes.intel.com/resource/22011671428,"","",Unassigned
+274424,no S-IOV,ND SW Requirement,"=""22011671425""",https://hsdes.intel.com/resource/22011671425,"","",Unassigned
+274423,no PASIDs,ND SW Requirement,"=""22011671424""",https://hsdes.intel.com/resource/22011671424,"","",Unassigned
+274422,SR-IOV & # of VFs,ND SW Requirement,"=""22011671423""",https://hsdes.intel.com/resource/22011671423,"","",Unassigned
+274421,# of PFs,ND SW Requirement,"=""22011671422""",https://hsdes.intel.com/resource/22011671422,"","",Unassigned
+274420,NVMeoF with TCP with SW path,ND SW Requirement,"=""22011671544""",https://hsdes.intel.com/resource/22011671544,"","",Unassigned
+274419,NVMeoF with TCP with HW path,ND SW Requirement,"=""22011671542""",https://hsdes.intel.com/resource/22011671542,"","",Unassigned
+274418,HW path performance,ND SW Requirement,"=""22011671530""",https://hsdes.intel.com/resource/22011671530,"","",Unassigned
+274417,Encryption: AES-GCM with authentication,ND SW Requirement,"=""22011671505""",https://hsdes.intel.com/resource/22011671505,"","",Unassigned
+274416,Encryption: AES-XTS with no authentication,ND SW Requirement,"=""22011671489""",https://hsdes.intel.com/resource/22011671489,"","",Unassigned
+274415,NVMeoF with iWARP,ND SW Requirement,"=""22011671471""",https://hsdes.intel.com/resource/22011671471,"","",Unassigned
+274414,NVMeoF with RoCEv2,ND SW Requirement,"=""22011671456""",https://hsdes.intel.com/resource/22011671456,"","",Unassigned
+274413,Driver i/f,ND SW Requirement,"=""22011671436""",https://hsdes.intel.com/resource/22011671436,"","",Unassigned
+274412,IMC PFs,ND SW Requirement,"=""22011671421""",https://hsdes.intel.com/resource/22011671421,"","",Unassigned
+274411,PCR22: CISPv2 and SecureSADB,ND SW Requirement,"=""22011671410""",https://hsdes.intel.com/resource/22011671410,"","",Unassigned
+274410,Management of egress CISP SAs,ND SW Requirement,"=""22011671409""",https://hsdes.intel.com/resource/22011671409,"","",Unassigned
+274409,CISP master keys,ND SW Requirement,"=""22011671407""",https://hsdes.intel.com/resource/22011671407,"","",Unassigned
+274408,CISP Algorithms,ND SW Requirement,"=""22011671405""",https://hsdes.intel.com/resource/22011671405,"","",Unassigned
+274407,ICE: CISP configuration,ND SW Requirement,"=""22011671402""",https://hsdes.intel.com/resource/22011671402,"","",Unassigned
+274406,The ICE SW library shall be stateless,ND SW Requirement,"=""22011671400""",https://hsdes.intel.com/resource/22011671400,"","",Unassigned
+274405,The ICE SW library shall be re-entrant,ND SW Requirement,"=""22011671399""",https://hsdes.intel.com/resource/22011671399,"","",Unassigned
+274404,Zeroisation,ND SW Requirement,"=""22011671397""",https://hsdes.intel.com/resource/22011671397,"","",Unassigned
+274403,SA management API,ND SW Requirement,"=""22011671395""",https://hsdes.intel.com/resource/22011671395,"","",Unassigned
+274402,(PCR117) ICE: User-space library for IA,ND SW Requirement,"=""22011671394""",https://hsdes.intel.com/resource/22011671394,"","",Unassigned
+274401,ICE: User-space library for ARM,ND SW Requirement,"=""22011671392""",https://hsdes.intel.com/resource/22011671392,"","",Unassigned
+274400,SA tables,ND SW Requirement,"=""22011671390""",https://hsdes.intel.com/resource/22011671390,"","",Unassigned
+274399,Support 16 million IPsec Security Associations (SAs).,ND SW Requirement,"=""22011671389""",https://hsdes.intel.com/resource/22011671389,"","",Unassigned
+274398,LAD-LADSWReq-20032 Rx descriptor,ND SW Requirement,"=""24546983""",https://jama4.intel.com/perspective.req#/items/24546983?projectId=57,"","",Unassigned
+274397,IPsec Auditing,ND SW Requirement,"=""22011671384""",https://hsdes.intel.com/resource/22011671384,"","",Unassigned
+274396,LAD-LADSWReq-20030 IPsec Statistics - Per VSI,ND SW Requirement,"=""24546945""",https://jama4.intel.com/perspective.req#/items/24546945?projectId=57,"","",Unassigned
+274395,IPsec Statistics - Per SA,ND SW Requirement,"=""22011671380""",https://hsdes.intel.com/resource/22011671380,"","",Unassigned
+274394,IPsec Algorithms: AES-GMAC with 128 and 256 bit keys. RFC4543,ND SW Requirement,"=""22011671378""",https://hsdes.intel.com/resource/22011671378,"","",Unassigned
+274393,IPsec Algorithms - AES-GCM,ND SW Requirement,"=""22011671377""",https://hsdes.intel.com/resource/22011671377,"","",Unassigned
+274392,IPsec Aging - Soft Limit,ND SW Requirement,"=""22011671375""",https://hsdes.intel.com/resource/22011671375,"","",Unassigned
+274391,IPsec Aging - Hard Limit,ND SW Requirement,"=""22011671374""",https://hsdes.intel.com/resource/22011671374,"","",Unassigned
+274390,IPsec Anti-Replay Window Configuration,ND SW Requirement,"=""22011671373""",https://hsdes.intel.com/resource/22011671373,"","",Unassigned
+274389,IPsec - SPD Offload,ND SW Requirement,"=""22011671371""",https://hsdes.intel.com/resource/22011671371,"","",Unassigned
+274388,LAD-LADSWReq-20022 IPsec - Padding generation and verification,ND SW Requirement,"=""24546625""",https://jama4.intel.com/perspective.req#/items/24546625?projectId=57,"","",Unassigned
+274387,LAD-LADSWReq-20021 IPsec - Extended Sequence Number,ND SW Requirement,"=""24546378""",https://jama4.intel.com/perspective.req#/items/24546378?projectId=57,"","",Unassigned
+274386,IPsec - IV generation,ND SW Requirement,"=""22011671417""",https://hsdes.intel.com/resource/22011671417,"","",Unassigned
+274385,IPsec - TFC padding,ND SW Requirement,"=""22011671416""",https://hsdes.intel.com/resource/22011671416,"","",Unassigned
+274384,IPsec - IP headers,ND SW Requirement,"=""22011671415""",https://hsdes.intel.com/resource/22011671415,"","",Unassigned
+274383,IPsec - ESP,ND SW Requirement,"=""22011671413""",https://hsdes.intel.com/resource/22011671413,"","",Unassigned
+274382,LAD-LADSWReq-20016 IPsec - Encapsulation Modes,ND SW Requirement,"=""24540135""",https://jama4.intel.com/perspective.req#/items/24540135?projectId=57,"","",Unassigned
+274381,LAD-LADSWReq-20015 Packet Length Updates,ND SW Requirement,"=""24540091""",https://jama4.intel.com/perspective.req#/items/24540091?projectId=57,"","",Unassigned
+274380,LAD-LADSWReq-20014 IPsec - HW control and dataplane termination,ND SW Requirement,"=""24540043""",https://jama4.intel.com/perspective.req#/items/24540043?projectId=57,"","",Unassigned
+274379,Use Case: Infrastructure Crypto Offload for IPsec,ND SW Requirement,"=""22011671368""",https://hsdes.intel.com/resource/22011671368,"","",Unassigned
+274378,MEV SRS:  LAN APF driver on ARM,ND SW Requirement,"=""22011671367""",https://hsdes.intel.com/resource/22011671367,"","",Unassigned
+274377,LAD-LADSWReq-21038 MEV SRS: RDMA Linux VF - Virtualization - Hyper-V [Rejected],ND SW Requirement,"=""26305365""",https://jama4.intel.com/perspective.req#/items/26305365?projectId=57,"","",Unassigned
+274376,LAD-LADSWReq-21037 MEV SRS: RDMA Linux VF - Virtualization - VMware [Rejected],ND SW Requirement,"=""26305364""",https://jama4.intel.com/perspective.req#/items/26305364?projectId=57,"","",Unassigned
+274375,MEV SRS: RDMA Linux VF - Virtualization - KVM,ND SW Requirement,"=""14012923377""",https://hsdes.intel.com/resource/14012923377,"","",Unassigned
+274374,MEV SRS: RDMA Windows VF - NDv2 API Compliance,ND SW Requirement,"=""14012923376""",https://hsdes.intel.com/resource/14012923376,"","",Unassigned
+274373,MEV SRS: RDMA Windows VF - NDK API Compliance,ND SW Requirement,"=""14012923375""",https://hsdes.intel.com/resource/14012923375,"","",Unassigned
+274372,LAD-LADSWReq-21041 MEV SRS: RDMA Windows VF - Virtualization - Hyper-V [Rejected],ND SW Requirement,"=""26305370""",https://jama4.intel.com/perspective.req#/items/26305370?projectId=57,"","",Unassigned
+274371,LAD-LADSWReq-21040 MEV SRS: RDMA Windows VF - Virtualization - VMware [Rejected],ND SW Requirement,"=""26305368""",https://jama4.intel.com/perspective.req#/items/26305368?projectId=57,"","",Unassigned
+274370,MEV SRS: RDMA Windows VF - Virtualization - KVM,ND SW Requirement,"=""22011670995""",https://hsdes.intel.com/resource/22011670995,"","",Unassigned
+274369,MEV SRS: RDMA Windows VF - HPC clustering,ND SW Requirement,"=""22011670994""",https://hsdes.intel.com/resource/22011670994,"","",Unassigned
+274368,MEV SRS: RDMA Windows VF - PCS,ND SW Requirement,"=""14012923372""",https://hsdes.intel.com/resource/14012923372,"","",Unassigned
+274367,MEV SRS: RDMA Windows VF - MPI cluster - MS MPI (Windows only),ND SW Requirement,"=""14012923370""",https://hsdes.intel.com/resource/14012923370,"","",Unassigned
+274366,MEV SRS: RDMA Linux PF - User space interface compliance - OFI,ND SW Requirement,"=""22011671355""",https://hsdes.intel.com/resource/22011671355,"","",Unassigned
+274365,MEV SRS: RDMA Linux PF - User space interface compliance - DAPL,ND SW Requirement,"=""22011671354""",https://hsdes.intel.com/resource/22011671354,"","",Unassigned
+274364,MEV SRS: RDMA Linux PF - Installation placeholder,ND SW Requirement,"=""22011671350""",https://hsdes.intel.com/resource/22011671350,"","",Unassigned
+274363,MEV SRS: RDMA Linux PF - Virtualization - KVM,ND SW Requirement,"=""22011671348""",https://hsdes.intel.com/resource/22011671348,"","",Unassigned
+274362,MEV SRS: RDMA Linux PF - interop with Cavium (RoCE v2),ND SW Requirement,"=""22011671347""",https://hsdes.intel.com/resource/22011671347,"","",Unassigned
+274361,LAD-LADSWReq-21033 MEV SRS: RDMA Linux PF - Interop with Cavium (iWARP) [Rejected],ND SW Requirement,"=""26300834""",https://jama4.intel.com/perspective.req#/items/26300834?projectId=57,"","",Unassigned
+274360,MEV SRS: RDMA Linux PF - Interop with Mellanox (RoCE v2),ND SW Requirement,"=""22011671341""",https://hsdes.intel.com/resource/22011671341,"","",Unassigned
+274359,LAD-LADSWReq-21031 MEV SRS: RDMA Linux PF  - Interop with Chelsio (iWARP) [Rejected],ND SW Requirement,"=""26300830""",https://jama4.intel.com/perspective.req#/items/26300830?projectId=57,"","",Unassigned
+274358,MEV SRS: RDMA Linux PF - NFSoRDMA,ND SW Requirement,"=""22011671338""",https://hsdes.intel.com/resource/22011671338,"","",Unassigned
+274357,MEV SRS: RDMA Linux PF - NVMeOF with SPDK (user space),ND SW Requirement,"=""22011671336""",https://hsdes.intel.com/resource/22011671336,"","",Unassigned
+274356,MEV SRS: RDMA Linux PF - NVMeOF (kernel),ND SW Requirement,"=""22011671334""",https://hsdes.intel.com/resource/22011671334,"","",Unassigned
+274355,MEV SRS: RDMA Linux PF - iSER,ND SW Requirement,"=""22011671330""",https://hsdes.intel.com/resource/22011671330,"","",Unassigned
+274354,MEV SRS: RDMA Linux PF - MPI cluster - OpenMPI,ND SW Requirement,"=""22011671329""",https://hsdes.intel.com/resource/22011671329,"","",Unassigned
+274353,MEV SRS: RDMA Linux PF - MPI cluster - IntelMPI,ND SW Requirement,"=""22011671326""",https://hsdes.intel.com/resource/22011671326,"","",Unassigned
+274352,MEV SRS: RDMA Linux PF - RDMA in combination with QoS,ND SW Requirement,"=""22011671325""",https://hsdes.intel.com/resource/22011671325,"","",Unassigned
+274351,MEV SRS: RDMA Linux PF - RDMA in combination with DCB,ND SW Requirement,"=""22011671322""",https://hsdes.intel.com/resource/22011671322,"","",Unassigned
+274350,MEV SRS: RDMA Linux PF - RDMA in combination with multiple IPs,ND SW Requirement,"=""22011671319""",https://hsdes.intel.com/resource/22011671319,"","",Unassigned
+274349,MEV SRS: RDMA Linux PF - RDMA in combination with Routed Configurations,ND SW Requirement,"=""22011671315""",https://hsdes.intel.com/resource/22011671315,"","",Unassigned
+274348,MEV SRS: RDMA Linux PF - RDMA in combination with Jumbo Frames,ND SW Requirement,"=""22011671312""",https://hsdes.intel.com/resource/22011671312,"","",Unassigned
+274347,MEV SRS: RDMA Linux PF - RDMA in combination with VLANs,ND SW Requirement,"=""22011671306""",https://hsdes.intel.com/resource/22011671306,"","",Unassigned
+274346,MEV SRS: RDMA Linux PF - RDMA in combination with IPv6,ND SW Requirement,"=""22011671304""",https://hsdes.intel.com/resource/22011671304,"","",Unassigned
+274345,MEV SRS: RDMA Linux PF - RDMA in combination with IPv4,ND SW Requirement,"=""22011671301""",https://hsdes.intel.com/resource/22011671301,"","",Unassigned
+274344,MEV SRS: RDMA Linux PF - kVerbs (kernel-space),ND SW Requirement,"=""22011671297""",https://hsdes.intel.com/resource/22011671297,"","",Unassigned
+274343,MEV SRS: RDMA Linux PF - uVerbs (user-space),ND SW Requirement,"=""22011671296""",https://hsdes.intel.com/resource/22011671296,"","",Unassigned
+274342,MEV SRS: RDMA Linux PF - Huge Pages,ND SW Requirement,"=""22011671294""",https://hsdes.intel.com/resource/22011671294,"","",Unassigned
+274341,MEV SRS: RDMA Linux PF - Quantitive requirements placeholder,ND SW Requirement,"=""22011671293""",https://hsdes.intel.com/resource/22011671293,"","",Unassigned
+274340,MEV SRS: RDMA Linux PF - HW statistics,ND SW Requirement,"=""22011671365""",https://hsdes.intel.com/resource/22011671365,"","",Unassigned
+274339,MEV SRS: RDMA Linux PF - SW statistics,ND SW Requirement,"=""22011671364""",https://hsdes.intel.com/resource/22011671364,"","",Unassigned
+274338,MEV SRS: RDMA Linux PF - Out of Order Read response operations,ND SW Requirement,"=""22011671362""",https://hsdes.intel.com/resource/22011671362,"","",Unassigned
+274337,MEV SRS: RDMA Linux PF - Out of Order Write Operations,ND SW Requirement,"=""22011671359""",https://hsdes.intel.com/resource/22011671359,"","",Unassigned
+274336,MEV SRS: RDMA Linux PF - RDMA Extensions - Read with multiple SGEs,ND SW Requirement,"=""22011671358""",https://hsdes.intel.com/resource/22011671358,"","",Unassigned
+274335,MEV SRS: RDMA Linux PF - RDMA Extensions - Send with Immediate Data,ND SW Requirement,"=""22011671357""",https://hsdes.intel.com/resource/22011671357,"","",Unassigned
+274334,MEV SRS: RDMA Linux PF - RDMA Extensions - Write with Immediate Data,ND SW Requirement,"=""22011671343""",https://hsdes.intel.com/resource/22011671343,"","",Unassigned
+274333,MEV SRS: RDMA Linux PF - Transports: RoCE v2,ND SW Requirement,"=""22011671321""",https://hsdes.intel.com/resource/22011671321,"","",Unassigned
+274331,ATE Keep out regions,ND SW Requirement,"=""22011671268""",https://hsdes.intel.com/resource/22011671268,"","",Unassigned
+274330,ATE PF operation with node local platform IOMMU,ND SW Requirement,"=""22011671265""",https://hsdes.intel.com/resource/22011671265,"","",Unassigned
+274328,ATE Host Level Reset,ND SW Requirement,"=""22011671260""",https://hsdes.intel.com/resource/22011671260,"","",Unassigned
+274327,ATE page sizes,ND SW Requirement,"=""22011671259""",https://hsdes.intel.com/resource/22011671259,"","",Unassigned
+274325,ATE Second Level Address Translation (SLAT),ND SW Requirement,"=""22011671253""",https://hsdes.intel.com/resource/22011671253,"","",Unassigned
+274324,ATE performance metrics gathering,ND SW Requirement,"=""22011671248""",https://hsdes.intel.com/resource/22011671248,"","",Unassigned
+274323,ATE Passthrough,ND SW Requirement,"=""22011671246""",https://hsdes.intel.com/resource/22011671246,"","",Unassigned
+274321,ATE bypass bit,ND SW Requirement,"=""22011671242""",https://hsdes.intel.com/resource/22011671242,"","",Unassigned
+274319,ATE CPF Memory,ND SW Requirement,"=""22011671282""",https://hsdes.intel.com/resource/22011671282,"","",Unassigned
+274318,ATE Multihost,ND SW Requirement,"=""22011671280""",https://hsdes.intel.com/resource/22011671280,"","",Unassigned
+274317,ATE Multicard,ND SW Requirement,"=""22011671279""",https://hsdes.intel.com/resource/22011671279,"","",Unassigned
+274316,ATE errors communication,ND SW Requirement,"=""22011671276""",https://hsdes.intel.com/resource/22011671276,"","",Unassigned
+274315,ATE VFs and PFs treated equally,ND SW Requirement,"=""22011671273""",https://hsdes.intel.com/resource/22011671273,"","",Unassigned
+274314,ATE PF operating modes,ND SW Requirement,"=""22011671271""",https://hsdes.intel.com/resource/22011671271,"","",Unassigned
+274313,ATE PF driver initialisation precedence,ND SW Requirement,"=""22011671269""",https://hsdes.intel.com/resource/22011671269,"","",Unassigned
+274311,ATE PF driver compatibility,ND SW Requirement,"=""22011671238""",https://hsdes.intel.com/resource/22011671238,"","",Unassigned
+274309,[Superseded by DCR 2519] MEV SRS: CPT RC (FXP Only),ND SW Requirement,"=""22011671220""",https://hsdes.intel.com/resource/22011671220,"","",Unassigned
+274308,[Superseded by DCR 2519] MEV SRS: CPT P4 Specification - Modify,ND SW Requirement,"=""22011671219""",https://hsdes.intel.com/resource/22011671219,"","",Unassigned
+274307,[Superseded by DCR 2519] MEV SRS: CPT Assembly LPM (FXP Only),ND SW Requirement,"=""22011671217""",https://hsdes.intel.com/resource/22011671217,"","",Unassigned
+274304,[Superseded by DCR 2519] MEV SRS: CPT Modify (FXP Only),ND SW Requirement,"=""22011671235""",https://hsdes.intel.com/resource/22011671235,"","",Unassigned
+274302,[Superseded by DCR 2519] MEV SRS: CPT Hash (FXP Only),ND SW Requirement,"=""22011671232""",https://hsdes.intel.com/resource/22011671232,"","",Unassigned
+274301,[Superseded by DCR 2519] MEV SRS: CPT LEM,ND SW Requirement,"=""22011671231""",https://hsdes.intel.com/resource/22011671231,"","",Unassigned
+274300,[Superseded by DCR 2519] MEV SRS: CPT SEM (FXP Only),ND SW Requirement,"=""22011671229""",https://hsdes.intel.com/resource/22011671229,"","",Unassigned
+274298,[Superseded by DCR 2519] MEV SRS: CPT WLPG (FXP Only),ND SW Requirement,"=""22011671223""",https://hsdes.intel.com/resource/22011671223,"","",Unassigned
+274297,[Superseded by DCR 2519] MEV SRS:  CPT Parser,ND SW Requirement,"=""22011671212""",https://hsdes.intel.com/resource/22011671212,"","",Unassigned
+274296,LCE SDK CRC32-C protection for descriptor,ND SW Requirement,"=""22011671192""",https://hsdes.intel.com/resource/22011671192,"","",Unassigned
+274295,LCE SDK ACC DMA user space service API,ND SW Requirement,"=""22011671190""",https://hsdes.intel.com/resource/22011671190,"","",Unassigned
+274294,LCE SDK Buffer location flexibility,ND SW Requirement,"=""22011671184""",https://hsdes.intel.com/resource/22011671184,"","",Unassigned
+274292,LCE SDK Rate limiting,ND SW Requirement,"=""22011671181""",https://hsdes.intel.com/resource/22011671181,"","",Unassigned
+274290,"LCE SDK Chaining:  Compression, Crypto and CRC32-C",ND SW Requirement,"=""22011671179""",https://hsdes.intel.com/resource/22011671179,"","",Unassigned
+274287,LCE SDK Compress then Verify,ND SW Requirement,"=""22011671174""",https://hsdes.intel.com/resource/22011671174,"","",Unassigned
+274286,LCE SDK Chaining:  Compression and CRC32-C,ND SW Requirement,"=""22011671170""",https://hsdes.intel.com/resource/22011671170,"","",Unassigned
+274285,LCE SDK History buffer sizes,ND SW Requirement,"=""22011671168""",https://hsdes.intel.com/resource/22011671168,"","",Unassigned
+274284,LCE SDK Compression Algorithm: Snappy,ND SW Requirement,"=""22011671167""",https://hsdes.intel.com/resource/22011671167,"","",Unassigned
+274283,LCE SDK Compression Algorithm: zStandard,ND SW Requirement,"=""22011671165""",https://hsdes.intel.com/resource/22011671165,"","",Unassigned
+274282,LCE SDK Initialization vector generation,ND SW Requirement,"=""22011671164""",https://hsdes.intel.com/resource/22011671164,"","",Unassigned
+274281,LCE SDK Encrypt then Verify,ND SW Requirement,"=""22011671161""",https://hsdes.intel.com/resource/22011671161,"","",Unassigned
+274280,LCE SDK Chaining:  Crypto and CRC32-C,ND SW Requirement,"=""22011671159""",https://hsdes.intel.com/resource/22011671159,"","",Unassigned
+274279,LCE SDK Chaining: Crypto Algorithm combinations,ND SW Requirement,"=""22011671157""",https://hsdes.intel.com/resource/22011671157,"","",Unassigned
+274278,LCE SDK Hash algorithm: SHA3 family,ND SW Requirement,"=""22011671155""",https://hsdes.intel.com/resource/22011671155,"","",Unassigned
+274277,LCE SDK Hash algorithm: SHA2 family,ND SW Requirement,"=""22011671154""",https://hsdes.intel.com/resource/22011671154,"","",Unassigned
+274276,LCE SDK Hash algorithm: SHA1,ND SW Requirement,"=""22011671209""",https://hsdes.intel.com/resource/22011671209,"","",Unassigned
+274275,LCE SDK Cipher algorithm: AES-XTS,ND SW Requirement,"=""22011671207""",https://hsdes.intel.com/resource/22011671207,"","",Unassigned
+274274,LCE SDK Cipher allgorithm: AES-CTR,ND SW Requirement,"=""22011671203""",https://hsdes.intel.com/resource/22011671203,"","",Unassigned
+274273,LCE SDK AEAD algorithms: AES-GCM,ND SW Requirement,"=""22011671201""",https://hsdes.intel.com/resource/22011671201,"","",Unassigned
+274272,LCE SDK ACC cross-compile,ND SW Requirement,"=""22011671199""",https://hsdes.intel.com/resource/22011671199,"","",Unassigned
+274269,LCE SDK QAT compression user space library,ND SW Requirement,"=""22011671171""",https://hsdes.intel.com/resource/22011671171,"","",Unassigned
+274268,LCE SDK QAT cryptographic user space library,ND SW Requirement,"=""22011671152""",https://hsdes.intel.com/resource/22011671152,"","",Unassigned
+274267,LCE CPF cross-compile,ND SW Requirement,"=""22011671136""",https://hsdes.intel.com/resource/22011671136,"","",Unassigned
+274266,LCE APF/CPF kernel frameworks,ND SW Requirement,"=""22011671132""",https://hsdes.intel.com/resource/22011671132,"","",Unassigned
+274265,LCE # APFs,ND SW Requirement,"=""22011671130""",https://hsdes.intel.com/resource/22011671130,"","",Unassigned
+274263,LCE VF user space mapping,ND SW Requirement,"=""22011671127""",https://hsdes.intel.com/resource/22011671127,"","",Unassigned
+274262,LCE CPF PF configuration,ND SW Requirement,"=""22011671126""",https://hsdes.intel.com/resource/22011671126,"","",Unassigned
+274261,LCE CPF VF configuration,ND SW Requirement,"=""22011671124""",https://hsdes.intel.com/resource/22011671124,"","",Unassigned
+274260,LCE APF VF discovery,ND SW Requirement,"=""22011671121""",https://hsdes.intel.com/resource/22011671121,"","",Unassigned
+274259,LCE SR-IOV,ND SW Requirement,"=""22011671151""",https://hsdes.intel.com/resource/22011671151,"","",Unassigned
+274258,LCE CPF Capability discovery,ND SW Requirement,"=""22011671147""",https://hsdes.intel.com/resource/22011671147,"","",Unassigned
+274257,LCE PCIe AER errors,ND SW Requirement,"=""22011671146""",https://hsdes.intel.com/resource/22011671146,"","",Unassigned
+274256,LCE Interrupts,ND SW Requirement,"=""22011671144""",https://hsdes.intel.com/resource/22011671144,"","",Unassigned
+274255,LCE Telemetry,ND SW Requirement,"=""22011671143""",https://hsdes.intel.com/resource/22011671143,"","",Unassigned
+274254,LCE User space access via mdev framework,ND SW Requirement,"=""22011671140""",https://hsdes.intel.com/resource/22011671140,"","",Unassigned
+274252,LCE Linux kernel driver,ND SW Requirement,"=""22011671137""",https://hsdes.intel.com/resource/22011671137,"","",Unassigned
+274251,LCE Linux kernel driver compatibility with ACC version,ND SW Requirement,"=""22011671117""",https://hsdes.intel.com/resource/22011671117,"","",Unassigned
+274247,[Superseded by SW DCR 3399] MEV SRS: VF XDP Zero copy,ND SW Requirement,"=""22011671086""",https://hsdes.intel.com/resource/22011671086,"","",Unassigned
+274246,[Superseded by SW DCR 3399] MEV SRS: VF XDP native kernel feature,ND SW Requirement,"=""22011671085""",https://hsdes.intel.com/resource/22011671085,"","",Unassigned
+274245,[Superseded by SW DCR 3399] MEV SRS: VF GRO (IPv4 /   IPv6) - SW only,ND SW Requirement,"=""22011671083""",https://hsdes.intel.com/resource/22011671083,"","",Unassigned
+274243,[Superseded by SW DCR 3399] MEV SRS: VF Header split,ND SW Requirement,"=""22011671078""",https://hsdes.intel.com/resource/22011671078,"","",Unassigned
+274242,[Superseded by SW DCR 3399] MEV SRS:  VF Rx: Generic Checksum offloads,ND SW Requirement,"=""22011671108""",https://hsdes.intel.com/resource/22011671108,"","",Unassigned
+274241,[Superseded by SW DCR 3399] MEV SRS: VF UDP GSO,ND SW Requirement,"=""22011671105""",https://hsdes.intel.com/resource/22011671105,"","",Unassigned
+274238,MEV SRS:  Link configuration,ND SW Requirement,"=""22011671045""",https://hsdes.intel.com/resource/22011671045,"","",Unassigned
+274237,MEV SRS: AFP IMC timeout user-experience,ND SW Requirement,"=""22011671042""",https://hsdes.intel.com/resource/22011671042,"","",Unassigned
+274236,MEV SRS:  Stats per NIC in counter_tool,ND SW Requirement,"=""22011671040""",https://hsdes.intel.com/resource/22011671040,"","",Unassigned
+274235,MEV SRS: APF Ethtool stats per Queue,ND SW Requirement,"=""22011671036""",https://hsdes.intel.com/resource/22011671036,"","",Unassigned
+274234,LAD-LADSWReq-17063 MEV SRS: RSS / XPS,ND SW Requirement,"=""22051752""",https://jama4.intel.com/perspective.req#/items/22051752?projectId=57,"","",Unassigned
+274233,MEV SRS: Rx: Generic Checksum offloads,ND SW Requirement,"=""14012923459""",https://hsdes.intel.com/resource/14012923459,"","",Unassigned
+274232,MEV SRS: APF Netdev stats per VSI,ND SW Requirement,"=""22011671021""",https://hsdes.intel.com/resource/22011671021,"","",Unassigned
+274230,MEV SRS: XDP Zero copy,ND SW Requirement,"=""14012923474""",https://hsdes.intel.com/resource/14012923474,"","",Unassigned
+274229,MEV SRS: XDP native kernel feature,ND SW Requirement,"=""14012923472""",https://hsdes.intel.com/resource/14012923472,"","",Unassigned
+274228,[Superseded by DCR 3434] MEV SRS: Jumbo Frames,ND SW Requirement,"=""14012923471""",https://hsdes.intel.com/resource/14012923471,"","",Unassigned
+274227,MEV SRS: Header split,ND SW Requirement,"=""14012923464""",https://hsdes.intel.com/resource/14012923464,"","",Unassigned
+274226,MEV SRS: Tx USO,ND SW Requirement,"=""14012923463""",https://hsdes.intel.com/resource/14012923463,"","",Unassigned
+274224,MEV SRS: TSO (IPv4 / IPv6),ND SW Requirement,"=""22011671016""",https://hsdes.intel.com/resource/22011671016,"","",Unassigned
+274223,MEV SRS: NAPI,ND SW Requirement,"=""22011671008""",https://hsdes.intel.com/resource/22011671008,"","",Unassigned
+274221,MEV SRS: Rx HW GRO,ND SW Requirement,"=""14012923486""",https://hsdes.intel.com/resource/14012923486,"","",Unassigned
+274220,MEV SRS: Rx SW GRO,ND SW Requirement,"=""14012923484""",https://hsdes.intel.com/resource/14012923484,"","",Unassigned
+274219,[Superseded by DCR 3434] MEV SRS:  Interrupt Moderation - ITR,ND SW Requirement,"=""14012923482""",https://hsdes.intel.com/resource/14012923482,"","",Unassigned
+274217,MEV SRS: Standard Network connectivity (netdev) into the host,ND SW Requirement,"=""14012923457""",https://hsdes.intel.com/resource/14012923457,"","",Unassigned
+274216,MEV SRS: Intel's Inter Driver Communication (IDC) API,ND SW Requirement,"=""14012923456""",https://hsdes.intel.com/resource/14012923456,"","",Unassigned
+274215,MEV SRS:  Tx out-of-order-completions,ND SW Requirement,"=""14012923453""",https://hsdes.intel.com/resource/14012923453,"","",Unassigned
+274207,LAD-LADSWReq-17100 [Rejected] MEV SRS: HW LAG - SRS: HW LAG - Ethtool enablement   of HW LAG Tx hash configuration,ND SW Requirement,"=""22051799""",https://jama4.intel.com/perspective.req#/items/22051799?projectId=57,"","",Unassigned
+274202,"LAD-LADSWReq-17096 [Rejected] MEV SRS: Infrastructure Crypto, HW Terminated IPsec",ND SW Requirement,"=""22051794""",https://jama4.intel.com/perspective.req#/items/22051794?projectId=57,"","",Unassigned
+274201,"LAD-LADSWReq-17095 [Rejected] MEV SRS: Infrastructure Crypto, SW Terminated IPsec",ND SW Requirement,"=""22051792""",https://jama4.intel.com/perspective.req#/items/22051792?projectId=57,"","",Unassigned
+274198,[Duplicate] MEV SRS: SW GRO (IPv4 /   IPv6),ND SW Requirement,"=""14012923384""",https://hsdes.intel.com/resource/14012923384,"","",Unassigned
+274197,MEV SRS: Byte Queue Limits (BQL),ND SW Requirement,"=""22011671062""",https://hsdes.intel.com/resource/22011671062,"","",Unassigned
+274195,MEV SRS: Link speed reporting,ND SW Requirement,"=""22011671057""",https://hsdes.intel.com/resource/22011671057,"","",Unassigned
+274192,MEV SRS: SR-IOV,ND SW Requirement,"=""22011671055""",https://hsdes.intel.com/resource/22011671055,"","",Unassigned
+274191,MEV SRS: Outer TCP / UDP / IP / SCTP checksum offload,ND SW Requirement,"=""22011671053""",https://hsdes.intel.com/resource/22011671053,"","",Unassigned
+274190,MEV SRS: APF compatibility,ND SW Requirement,"=""22011671051""",https://hsdes.intel.com/resource/22011671051,"","",Unassigned
+274163,LAD-LADSWReq-17402 MEV SRS: Ubuntu,ND SW Requirement,"=""22482472""",https://jama4.intel.com/perspective.req#/items/22482472?projectId=57,"","",Unassigned
+274162,LAD-LADSWReq-17056 MEV SRS: Out-of-tree kernel and distribution support,ND SW Requirement,"=""22051744""",https://jama4.intel.com/perspective.req#/items/22051744?projectId=57,"","",Unassigned
+274161,MEV SRS:  Linux LAN PF/VF drivers upstream,ND SW Requirement,"=""14012923365""",https://hsdes.intel.com/resource/14012923365,"","",Unassigned
+236666,PCIe virtual channels,ND SW Requirement,"=""100""",https://jama4.intel.com/perspective.req#/items/HIF-26?projectId=57,"","",Unassigned
+236665,Capabilities,ND SW Requirement,"=""100""",https://jama4.intel.com/perspective.req#/items/HIF-25?projectId=57,"","",Unassigned
+236662,MSI-X Vectors,ND SW Requirement,"=""22011671432""",https://hsdes.intel.com/resource/22011671432,"","",Unassigned
+236661,MSI interrupts,ND SW Requirement,"=""100""",https://jama4.intel.com/perspective.req#/items/HIF-21?projectId=57,"","",Unassigned
+236660,ACC Functions,ND SW Requirement,"=""100""",https://jama4.intel.com/perspective.req#/items/HIF-20?projectId=57,"","",Unassigned
+236659,VFs,ND SW Requirement,"=""100""",https://jama4.intel.com/perspective.req#/items/HIF-19?projectId=57,"","",Unassigned
+236656,IMC PFs,ND SW Requirement,"=""22011671421""",https://hsdes.intel.com/resource/22011671421,"","",Unassigned
+236655,Ares host PFs,ND SW Requirement,"=""100""",https://jama4.intel.com/perspective.req#/items/HIF-15?projectId=57,"","",Unassigned
+236654,External host PFs,ND SW Requirement,"=""100""",https://jama4.intel.com/perspective.req#/items/HIF-14?projectId=57,"","",Unassigned
+236647,End-point ports,ND SW Requirement,"=""100""",https://jama4.intel.com/perspective.req#/items/HIF-7?projectId=57,"","",Unassigned
+236641,PCIe 4.0 x16,ND SW Requirement,"=""100""",https://jama4.intel.com/perspective.req#/items/HIF-1?projectId=57,"","",Unassigned
+236635,"LAN, NVMe, RDMA with ENI (FW)",ND SW Requirement,"=""100""",https://jama4.intel.com/perspective.req#/items/PWR-10?projectId=57,"","",Unassigned
+236634,"LAN, NVMe, RDMA with ENI (HW)",ND SW Requirement,"=""100""",https://jama4.intel.com/perspective.req#/items/PWR-9?projectId=57,"","",Unassigned
+236632,Firmware RDMA ENI,ND SW Requirement,"=""100""",https://jama4.intel.com/perspective.req#/items/PWR-7?projectId=57,"","",Unassigned
+236631,NVMe only ENI,ND SW Requirement,"=""100""",https://jama4.intel.com/perspective.req#/items/PWR-6?projectId=57,"","",Unassigned
+236630,"RDMA only, 0% cache hit, ENI",ND SW Requirement,"=""100""",https://jama4.intel.com/perspective.req#/items/PWR-5?projectId=57,"","",Unassigned
+236629,"RDMA only, 100% cache hit, ENI",ND SW Requirement,"=""100""",https://jama4.intel.com/perspective.req#/items/PWR-4?projectId=57,"","",Unassigned
+236628,"LAN only ENI, 200Gbps full duplex, 200 mpps full duplex",ND SW Requirement,"=""100""",https://jama4.intel.com/perspective.req#/items/PWR-3?projectId=57,"","",Unassigned
+236622,Platform support,ND SW Requirement,"=""100""",https://jama4.intel.com/perspective.req#/items/PLT-1?projectId=57,"","",Unassigned
+
+METADATA
+Exported Artifact IDs=377246|377245|377244|377243|377242|377241|377240|377239|377238|377237|377236|377235|377234|377233|377232|377231|377230|377229|377228|377227|377226|377225|377224|377223|377222|377221|377220|377219|377218|377217|377216|377215|377214|377213|377212|377211|377210|377209|377208|377207|377206|377205|377204|377203|377202|377201|377200|377199|377198|377197|377196|377195|377194|377193|377192|377191|377190|377189|377188|377187|377186|377185|377184|377183|377182|377181|377180|377179|377178|377177|377176|377175|377174|377173|377172|377171|377170|377169|377168|377167|377166|377165|377164|377163|377162|377161|377160|377159|377158|377157|377156|377155|377154|377153|377152|377151|377150|377149|377148|377147|377146|377145|377144|377143|377142|377141|377140|377139|377138|377137|377136|377135|377134|377133|377132|377131|377130|377129|377128|377127|377126|377125|377124|377123|370809|370808|370807|370806|370805|370804|370803|370802|370801|370800|370799|370798|370797|370796|364572|364571|364570|364569|364568|364567|364566|350712|350711|350710|350709|350708|350707|350706|350705|350704|350703|350702|343152|339767|339766|336442|334637|334636|334635|334634|334633|330713|330712|330711|330710|330709|330708|330707|330706|330705|330704|330703|330702|330701|330700|330699|330698|330697|330696|330695|330694|330693|330692|330691|330690|330689|330688|330687|330686|330685|330684|330683|330682|330681|330680|330679|330678|330677|330676|330675|330674|330673|330672|330671|330670|330669|330668|330667|330666|330665|330664|330663|330662|330661|330660|330659|330658|330657|330656|330655|325829|325806|325805|325804|325803|325802|325801|325800|325799|325798|325797|325796|325795|325794|325793|325792|325791|325790|325789|325788|325787|325786|325785|325784|325783|325782|325781|325780|325779|325778|325777|325776|325775|325774|325773|325772|325771|325770|325769|325768|325767|325766|325765|325764|325763|325762|325761|325760|325759|325758|325757|325756|325755|325754|325753|325752|325751|325750|325749|325748|325747|325746|325745|325744|325743|325742|325741|325740|325739|325738|325737|325736|325735|325734|325733|325732|325731|325730|325729|325728|325727|325726|325725|325724|325723|325721|325720|325719|325718|325717|325716|325715|278420|278419|278418|278417|278416|278415|278414|278412|274721|274649|274645|274644|274642|274641|274640|274620|274618|274617|274608|274600|274593|274592|274591|274590|274585|274584|274579|274578|274575|274572|274570|274569|274566|274558|274556|274550|274548|274546|274536|274535|274532|274531|274530|274529|274528|274527|274526|274525|274524|274523|274522|274521|274520|274519|274518|274517|274516|274515|274514|274513|274512|274511|274510|274509|274508|274507|274506|274505|274504|274503|274502|274501|274500|274499|274498|274497|274496|274495|274494|274493|274492|274491|274490|274489|274488|274487|274486|274485|274484|274483|274482|274481|274480|274479|274478|274477|274476|274475|274474|274473|274472|274471|274470|274469|274468|274467|274466|274465|274464|274463|274462|274461|274460|274459|274458|274457|274456|274455|274454|274453|274452|274451|274450|274449|274448|274447|274446|274445|274444|274443|274442|274441|274440|274439|274438|274437|274436|274435|274434|274433|274432|274431|274430|274429|274428|274427|274426|274425|274424|274423|274422|274421|274420|274419|274418|274417|274416|274415|274414|274413|274412|274411|274410|274409|274408|274407|274406|274405|274404|274403|274402|274401|274400|274399|274398|274397|274396|274395|274394|274393|274392|274391|274390|274389|274388|274387|274386|274385|274384|274383|274382|274381|274380|274379|274378|274377|274376|274375|274374|274373|274372|274371|274370|274369|274368|274367|274366|274365|274364|274363|274362|274361|274360|274359|274358|274357|274356|274355|274354|274353|274352|274351|274350|274349|274348|274347|274346|274345|274344|274343|274342|274341|274340|274339|274338|274337|274336|274335|274334|274333|274331|274330|274328|274327|274325|274324|274323|274321|274319|274318|274317|274316|274315|274314|274313|274311|274309|274308|274307|274304|274302|274301|274300|274298|274297|274296|274295|274294|274292|274290|274287|274286|274285|274284|274283|274282|274281|274280|274279|274278|274277|274276|274275|274274|274273|274272|274269|274268|274267|274266|274265|274263|274262|274261|274260|274259|274258|274257|274256|274255|274254|274252|274251|274247|274246|274245|274243|274242|274241|274238|274237|274236|274235|274234|274233|274232|274230|274229|274228|274227|274226|274224|274223|274221|274220|274219|274217|274216|274215|274207|274202|274201|274198|274197|274195|274192|274191|274190|274163|274162|274161|236666|236665|236662|236661|236660|236659|236656|236655|236654|236647|236641|236635|236634|236632|236631|236630|236629|236628|236622
+Export Project Area=https://rtc.intel.com/dng0001001/rm-projects/_xFWosGlIEeif5eVtYJXW4w/components/_xKY5sGlIEeif5eVtYJXW4w
+Export Configuration=https://rtc.intel.com/gc/configuration/604
+Export Locale=en
