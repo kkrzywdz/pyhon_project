@@ -2,6 +2,10 @@ import os
 import imagehash
 from PIL import Image
 
+# required packages
+# pip install Pillow
+# pip install imagehash
+
 def find_identical_images(directory):
     hash_dict = {}
     for filename in os.listdir(directory):
