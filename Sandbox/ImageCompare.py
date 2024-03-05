@@ -1,10 +1,8 @@
 import os
+import shutil
 import imagehash
 from PIL import Image
 
-# required packages
-# pip install Pillow
-# pip install imagehash
 
 def find_identical_images(directory):
     hash_dict = {}
@@ -17,17 +15,17 @@ def find_identical_images(directory):
                 if image_hash in hash_dict:
                     print(f"Found identical images: {hash_dict[image_hash]} and {image_path}")
                     image1 = Image.open(hash_dict[image_hash])
-                    # image2 = Image.open(image_path)
                     image1.show("Image 1")
-                    # image2.show("Image 2")
                     image1.close()
-                    confirmation = input("These images look identical. Do you want to delete one of them? (yes/no): ")
-                    if confirmation.lower() != "no":
-                        os.remove(image_path)
-                        print(f"Image {image_path} has been deleted.")
+                    destination = "C:\\temp\\" + filename
+                    shutil.move(image_path, destination)
+                    print(f"Image {image_path} has been moved to {destination}.")
                 else:
                     hash_dict[image_hash] = image_path
             except Exception as e:
                 print(f"Unable to open image {image_path}. Error: {e}")
 
-find_identical_images("C:\\Users\\Ashram\\Downloads\\")
+
+main_directory = "C:\\Users\\Ashram\\Downloads\\"
+for dirpath, dirnames, filenames in os.walk(main_directory):
+    find_identical_images(dirpath)
